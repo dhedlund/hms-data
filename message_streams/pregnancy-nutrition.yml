@@ -1,0 +1,129 @@
+---
+name: pregnancy-nutrition
+title: Pregnancy - Nutrition
+messages:
+  - name: week-5
+    title: Week 5
+    offset_days: 28
+    sms_text: >
+      You and your growing baby need food for energy, body building and
+      protection. Meat, eggs, greens, vegetables, rice and fruits help
+      your baby grow.
+  - name: week-7
+    title: Week 7
+    offset_days: 42
+    sms_text: >
+      You need to eat well to help your growing baby and to be careful
+      about the foods you eat.  Wash foods well before eating and cook
+      eggs and chicken completely.
+  - name: week-8
+    title: Week 8
+    offset_days: 49
+    sms_text: >
+      For your baby to grow well, don't forget to eat a variety especially
+      protective foods like greens, tomatoes, & fruits.
+  - name: week-9
+    title: Week 9
+    offset_days: 56
+    sms_text: >
+      Body building foods like meat, beans and eggs are important for you
+      and your baby.  Try to take some every day.
+  - name: week-12
+    title: Week 12
+    offset_days: 77
+    sms_text: >
+      You might find that you want to eat strange things while you are
+      pregnant.  It's best to stick to healthy foods like meat, beans,
+      eggs, fruits and vegetables.
+  - name: week-14
+    title: Week 14
+    offset_days: 91
+    sms_text: >
+      Women may start pregnancy with low iron, which can cause the baby to
+      be born small. To keep your iron up, take your iron tablets and eat
+      meat, greens and eggs.
+  - name: week-15
+    title: Week 15
+    offset_days: 98
+    sms_text: >
+      Your baby is growing quickly now. It is important to eat dairy now,
+      like milk, and yoghurt, milk. Also, make sure your salt is iodated. 
+  - name: week-16
+    title: Week 16
+    offset_days: 105
+    sms_text: >
+      Remember to drink plenty of water! Try for at two or three litres
+      each day.
+  - name: week-18
+    title: Week 18
+    offset_days: 119
+    sms_text: >
+      To help prevent piles, try not to get constipated. Eat foods with
+      lots of fibre like fruits & vegetables.
+  - name: week-19
+    title: Week 19
+    offset_days: 126
+    sms_text: >
+      Wash hands after touching animals or raw meat and before cooking,
+      serving food or eating. Cover food to protect from germs.
+  - name: week-20
+    title: Week 20
+    offset_days: 133
+    sms_text: >
+      You may feel full of wind or bloated. This is normal. As your womb
+      grows, it pushes on your stomach. Try to eat smaller meals more often
+      during the day.
+  - name: week-21
+    title: Week 21
+    offset_days: 140
+    sms_text: >
+      It's best to eat from all 3 food groups:  energy giving, body
+      building & protective foods. Try to eat items from each group at
+      each meal.
+  - name: week-23
+    title: Week 23
+    offset_days: 154
+    sms_text: >
+      You & your baby need folic acid. At ANC, you will get folic acid
+      tablets that will help your baby's brain and spine to grow well and
+      will help keep your iron up
+  - name: week-26
+    title: Week 26
+    offset_days: 175
+    sms_text: >
+      Instead of eating more than normal, make sure you eat from the 3
+      major food groups: energy foods, body building foods and protective
+      foods.
+  - name: week-27
+    title: Week 27
+    offset_days: 182
+    sms_text: >
+      Have you been taking your iron tablets? Iron is important for you
+      and your baby. If you are feeling tired or breathless, your blood
+      iron may be low.
+  - name: week-29
+    title: Week 29
+    offset_days: 196
+    sms_text: >
+      Your body still needs a lot of iron and folic acid. The tablets you
+      got from ANC can top up your intake, but eating well is still
+      important. Try to get lots of leafy greens. 
+  - name: week-30
+    title: Week 30
+    offset_days: 203
+    sms_text: >
+      Drinking real fruit juice when eating iron-rich foods like greens
+      and beans to help your body to absorb the iron.
+  - name: week-37
+    title: Week 37
+    offset_days: 252
+    sms_text: >
+      Eating well will prepare your body for delivery. Foods like meat,
+      fish, eggs, and beans will help your body to be strong for labour.
+  - name: week-41
+    title: Week 41
+    offset_days: 280
+    sms_text: >
+      Immunization is important for the prevention of disease. Your baby
+      will need some immunizations as soon as she is born and some in the
+      months to follow. 

@@ -1,0 +1,163 @@
+---
+name: pregnancy-baby-devo
+title: Pregnancy - Baby Devo
+messages:
+  - name: week-5
+    title: Week 5
+    offset_days: 28
+    sms_text: >
+      Your baby is tiny--barely able to be seen with your eyes--but the
+      heart is beating already.
+  - name: week-7
+    title: Week 7
+    offset_days: 42
+    sms_text: >
+      You might not look or feel pregnant. But your uterus is expanding to
+      accommodate your baby and, as this is happening, you might feel some
+      cramps or mild pains
+  - name: week-8
+    title: Week 8
+    offset_days: 49
+    sms_text: >
+      You can't feel anything yet but your baby is constantly on the move.
+      It's starting to get it's arms, legs, and eyes.
+  - name: week-10
+    title: Week 10
+    offset_days: 63
+    sms_text: >
+      Your baby's fingernails and fuzzy hair are appearing and it's able
+      to do things like swallowing and kicking. In the next 3 weeks, your
+      baby will double in size
+  - name: week-11
+    title: Week 11
+    offset_days: 70
+    sms_text: >
+      Your baby is about the length of your thumb. For the next six months,
+      your baby's main task is to grow larger and stronger, ready for the
+      outside world!
+  - name: week-12
+    title: Week 12
+    offset_days: 77
+    sms_text: >
+      Your stomach might be big enough to show the world that you're
+      expecting, but your baby is tiny -- about half the size of a banana.
+  - name: week-14
+    title: Week 14
+    offset_days: 91
+    sms_text: >
+      Your baby is busy growing hair! He or she  can now grasp, squint,
+      and frown and even suck his thumb.
+  - name: week-15
+    title: Week 15
+    offset_days: 98
+    sms_text: >
+      Your baby is still small enough to fit into the palm of your hand
+      but you may start to feel it move. It might feel like a flutter low
+      down in your stomach
+  - name: week-17
+    title: Week 17
+    offset_days: 112
+    sms_text: >
+      Tobacco smoke can severely harm your baby. Tell friends and
+      relatives not to smoke near you.
+  - name: week-18
+    title: Week 18
+    offset_days: 119
+    sms_text: >
+      Your baby can  hear your heartbeat and your digestive system. Soon,
+      your baby will be able to hear outside noise and the sound of your
+      voice, too.
+  - name: week-19
+    title: Week 19
+    offset_days: 126
+    sms_text: >
+      In the next few weeks, your baby's movements will get stronger and
+      more regular. Every baby has their own cycle of sleeping and being
+      awake
+  - name: week-21
+    title: Week 21
+    offset_days: 140
+    sms_text: >
+      Your baby can hear you now! If you and your husband talk to the
+      baby, it can get to know your voices before it's born.
+  - name: week-28
+    title: Week 28
+    offset_days: 189
+    sms_text: >
+      Your baby will come very soon now. The best food for your baby is
+      breast milk.  You should start breastfeeding your baby as soon as
+      it is born
+  - name: week-29
+    title: Week 29
+    offset_days: 196
+    sms_text: >
+      The baby is very big now and may be causing your back to hurt. Try
+      to keep active, but avoid lifting heavy things like water, firewood
+      and other children.
+  - name: week-30
+    title: Week 30
+    offset_days: 203
+    sms_text: >
+      Now that the baby is big, you may notice that it moves around less.
+      There's not so much room any more!
+  - name: week-31
+    title: Week 31
+    offset_days: 210
+    sms_text: >
+      Different people might tell you about what to do with the stump of
+      the umbilical cord. It is best to keep it clean and dry and not to
+      put anything on it.
+  - name: week-32
+    title: Week 32
+    offset_days: 217
+    sms_text: >
+      Contractions happen when you can feel the muscles in your stomach
+      getting hard and then soft again. When the baby is coming, they will
+      be strong and regular
+  - name: week-33
+    title: Week 33
+    offset_days: 224
+    sms_text: >
+      Your first breastmilk is called colostrum. It is thick & yellowish
+      & full  protein & infection protection for your baby.  It's the best
+      milk for baby.
+  - name: week-34
+    title: Week 34
+    offset_days: 231
+    sms_text: >
+      Your labour will be soon. Signs include contractions, pain, breaking
+      waters, and loss of the mucus plug- a protective layer in your womb
+      that looks like jelly.
+  - name: week-35
+    title: Week 35
+    offset_days: 238
+    sms_text: >
+      There are many reasons that you might need an operation to deliver
+      your baby. All the reasons are to protect you and your baby from
+      problems. Try not to worry
+  - name: week-36
+    title: Week 36
+    offset_days: 245
+    sms_text: >
+      As your baby drops down in preparation for birth, you may start to
+      walk like a duck. Your little one is coming soon.
+  - name: week-39
+    title: Week 39
+    offset_days: 266
+    sms_text: >
+      Breast-feed your baby whenever he wants it. At first, a newborn will
+      feed 8 to 12 times 1 day. Feeding often will help your body increase
+      milk production
+  - name: week-40
+    title: Week 40
+    offset_days: 273
+    sms_text: >
+      If your baby weighs less than 2.5 kgs at birth it is will be
+      important to keep them warm by keeping them close to you near your
+      breasts.
+  - name: week-42
+    title: Week 42
+    offset_days: 287
+    sms_text: >
+      Take baby to the health center right away if it has fever, trouble
+      breathing, is weak or limp or is not  feeding or not crying

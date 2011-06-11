@@ -1,0 +1,154 @@
+---
+name: pregnancy-routines-and-beliefs
+title: Pregnancy - Routines and Beliefs
+messages:
+  - name: week-6
+    title: Week 6
+    offset_days: 35
+    sms_text: >
+      A pregnant woman should be careful to avoid overworking or getting
+      over-heated. Get help with heavy lifting and try to work during
+      cooler hours or in the shade.
+  - name: week-8
+    title: Week 8
+    offset_days: 49
+    sms_text: >
+      Malaria is very dangerous. It can cause low blood in the mother
+      &miscarriage-where you lose the baby. Help yourself by sleeping
+      under insecticide treated nets
+  - name: week-11
+    title: Week 11
+    offset_days: 70
+    sms_text: >
+      You won't hurt your baby by having sex when you are pregnant. Just
+      keep it gentle and avoid deep using anything that might irritate
+      you.
+  - name: week-16
+    title: Week 16
+    offset_days: 105
+    sms_text: >
+      It's okay to exercise, but be careful not to do too much.  Get help
+      with difficult duties around the house.
+  - name: week-17
+    title: Week 17
+    offset_days: 112
+    sms_text: >
+      Now is a good time to start to plan for your baby's arrival. Put
+      down small money weekly for things needed at delivery-baby napkins,
+      soap, antiseptic, cot
+  - name: week-19
+    title: Week 19
+    offset_days: 126
+    sms_text: >
+      Washing hands is very important to control germs that can make you
+      and your baby sick. Wash hands after using toilet or cleaning a
+      child who has been to toilet.
+  - name: week-20
+    title: Week 20
+    offset_days: 133
+    sms_text: >
+      It is good to try to keep up with your normal routine during
+      pregnancy, but as you get bigger try to take things a bit easier.
+  - name: week-21
+    title: Week 21
+    offset_days: 140
+    sms_text: >
+      Now is a good time to think about baby's arrival & your delivery.
+      Have you thought about transport to hospital or clinic in an
+      emergency?
+  - name: week-22
+    title: Week 22
+    offset_days: 147
+    sms_text: >
+      It is safe to have sex while pregnant, but if one of you is HIV+,
+      use condoms. An HIV+ pregnant woman will be given medicines to
+      protect the baby from HIV.
+  - name: week-24
+    title: Week 24
+    offset_days: 161
+    sms_text: >
+      Many pregnant women find that they forget things or feel confused.
+      It is not a medical problem, but it can be upsetting. Try not to let
+      it worry you
+  - name: week-25
+    title: Week 25
+    offset_days: 168
+    sms_text: >
+      You are in the final stage of your pregnancy! Congratulations on all
+      the positive steps you have taken so far. If you have trouble
+      sleeping, avoid coffee or tea
+  - name: week-26
+    title: Week 26
+    offset_days: 175
+    sms_text: >
+      Are you drinking enough water? When you don't drink enough, you can
+      become tired or get headaches. Try for up to 8 glasses of water or
+      fruit juice each day.
+  - name: week-28
+    title: Week 28
+    offset_days: 189
+    sms_text: >
+      You and your family should make a plan for the baby's arrival. Think
+      about transport and household items you will need. Think about who
+      to call in an emergency
+  - name: week-30
+    title: Week 30
+    offset_days: 203
+    sms_text: >
+      Breast milk is the perfect food for babies .Your first milk will be
+      thick and yellow and it is the best milk for protecting the baby
+      from diseases.
+  - name: week-33
+    title: Week 33
+    offset_days: 224
+    sms_text: >
+      Pregnant ladies should not carry heavy loads on their heads, backs
+      or shoulders. Pregnant ladies should be helped with heavy loads and
+      given time to rest.
+  - name: week-34
+    title: Week 34
+    offset_days: 231
+    sms_text: >
+      Delivering in a health facility means that workers there can deal
+      with any problems or emergencies.  Make a plan to deliver in a
+      facility
+  - name: week-35
+    title: Week 35
+    offset_days: 238
+    sms_text: >
+      If u are not delivering at a facility, you and baby need to report
+      at the clinic as soon as possible after the birth -- at least within
+      2 days
+  - name: week-36
+    title: Week 36
+    offset_days: 245
+    sms_text: >
+      Have you planned for your delivery? Make sure you and your family
+      have a plan for transportation before the baby comes.
+  - name: week-37
+    title: Week 37
+    offset_days: 252
+    sms_text: >
+      Baby can come anytime now. Do you have all you need for delivery
+      packed in a bag? Pack napkins, cloths, baby soap, towels and clothes
+      for you.
+  - name: week-38
+    title: Week 38
+    offset_days: 259
+    sms_text: >
+      Long labour does not mean you have been cheating. It may mean the
+      baby is too big and cannot pass through the hip bones or there may
+      be other problems.
+  - name: week-39
+    title: Week 39
+    offset_days: 266
+    sms_text: >
+      Breastmilk has water so no need to give baby water. Breastmilk has
+      all the baby needs to eat and drink.
+  - name: week-40
+    title: Week 40
+    offset_days: 273
+    sms_text: >
+      Feeding the baby water or other food vitamins minerals or medicines
+      is really dangerous for the baby -- it can cause diarrhea, vomiting
+      and other sicknesses
