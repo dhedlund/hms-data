@@ -19,7 +19,7 @@ messages:
     title: Week 7
     offset_days: 42
     sms_text: >
-      Now that you are pregnant, be careful about the medicines you take.
+      Now that you're pregnant, be careful about the medicines you take.
       Aspirin & ibuprofen are not good for pregnant women.Paracetamol is
       safe if taken occasionally
   - name: week-8
