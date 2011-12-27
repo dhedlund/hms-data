@@ -1,0 +1,2494 @@
+---
+name: pregnancy
+title: "Pregnancy Stream"
+messages:
+  - name: sms-year1-week5a-eng
+    title: SMS Year 1, Week 5a
+    language: English
+    offset_days: 28
+    sms_text: >
+      When you and your family know that you are pregnant, a visit to ANC
+      will help you understand everything you need to do to keep the baby
+      healthy.
+  - name: sms-year1-week5a-chewa
+    title: SMS Year 1, Week 5a
+    language: Chichewa
+    offset_days: 28
+    sms_text: >
+      Pamene inu ndi banja lanu mwazindikira kuti ndinu woyembekezera,
+      kupita ku sikelo kungakuthanizeni  kudziwa zoyenera kuchita kuti mwana
+      wanu akhale wathanzi
+  - name: sms-year1-week5a-yao
+    title: SMS Year 1, Week 5a
+    language: Chiyao
+    offset_days: 28
+    sms_text: >
+      Pandawiji m'mwejo ni anyumba weni m'manyilire kuti mjuri kwaula ku
+      sikelo tikuchimkamuchisya m'mwejo kuti mpikanichisye indu yokusoseka
+      kutenda kuti likandi lipagwe lya ukoto
+
+  - name: sms-year1-week5b-eng
+    title: SMS Year 1, Week 5b
+    language: English
+    offset_days: 31
+    sms_text: >
+      You and your growing baby need food for energy, body building and
+      protection. Meat, eggs, greens, vegetables, rice and fruits help your
+      baby grow.
+  - name: sms-year1-week5b-chewa
+    title: SMS Year 1, Week 5b
+    language: Chichewa
+    offset_days: 31
+    sms_text: >
+      Inu ndi mwanayo muzafuna chakudya kuti mukhale ndi mphamvu, kukula
+      komanso kukhla ndi chitetezo ku matenda. Zakudya monga nyama, mazira,
+      masamba, mpunga komanso zipatso zimathandiza mwana kuti azikula.
+  - name: sms-year1-week5b-yao
+    title: SMS Year 1, Week 5b
+    language: Chiyao
+    offset_days: 31
+    sms_text: >
+      M'mwejo nilikandi likukulalyo.Lisasosaga yakulya kuti machili
+      kuimbalisya nikuteteya.Nyama,mandanda,masamba,ni mpunga isakamusyaga
+      kuti likandilyo likule.
+
+  - name: sms-year1-week6a-eng
+    title: SMS Year 1, Week 6a
+    language: English
+    offset_days: 35
+    sms_text: >
+      At your first ANC visit, you will get tests and medicines to ensure
+      that the baby is healthy. Your husband can also learn what to do to
+      keep the baby healthy.
+  - name: sms-year1-week6a-chewa
+    title: SMS Year 1, Week 6a
+    language: Chichewa
+    offset_days: 35
+    sms_text: >
+      Tsiku lanu loyamba sikelo, muzayezedwa zosiyanasiyana komanso
+      muzapatsidwa mankhwala kuti mwana akhale wathanzi, amuna anu
+      akakhalanso ndi mwai wophunzira zoyenera kuchita kuti mwana akhale
+      wathanzi.
+  - name: sms-year1-week6a-yao
+    title: SMS Year 1, Week 6a
+    language: Chiyao
+    offset_days: 35
+    sms_text: >
+      Kwaula kwandanda kwa kusikelo tachimpenga nikumpa mtela kuti likandi
+      lyo silipagwe lya ukoto. Wamkwenu tachijiganisidwa soni yakutenda kuti
+      likandilyo silipagwe mwaukoto
+
+  - name: sms-year1-week6b-eng
+    title: SMS Year 1, Week 6b
+    language: English
+    offset_days: 38
+    sms_text: >
+      Go to the clinic right away if you have:heavy/painful bleeding,
+      dizziness,fast heartbeat,bad headache,fever,vomiting,bloody/dark urine
+      or urination pain.
+  - name: sms-year1-week6b-chewa
+    title: SMS Year 1, Week 6b
+    language: Chichewa
+    offset_days: 38
+    sms_text: >
+      Thamangilani kuchipatala ngati muona izi: kutaya magazi kwambiri kapena
+      kumva kupweteka, kuchita chizungulire, mtima kuthamanga, mutu
+      kupweteka, kutentha thupi, kusanza, kukodza mkozo usankanizana ndi
+      magazi, kapena wakuda ngakhalenso kumva kupweteka pamene mukukodza.
+  - name: sms-year1-week6b-yao
+    title: SMS Year 1, Week 6b
+    language: Chiyao
+    offset_days: 38
+    sms_text: >
+      Mjaule kuchipatala pimkupikana kupweteka, kwasa myasi, chisungulire,
+      kuutuka kwa mtima, mtwewaching'a lang'ala, kutapika, kutunda makweso
+      gachejewu mwine kupweteka pakutunda kutunda.
+
+  - name: sms-year1-week7a-eng
+    title: SMS Year 1, Week 7a
+    language: English
+    offset_days: 42
+    sms_text: >
+      Now that you are pregnant, be careful about the medicines you
+      take.Aspirin & ibuprofen are not good for pregnant women.Paracetamol
+      is safe if taken occasionally
+  - name: sms-year1-week7a-chewa
+    title: SMS Year 1, Week 7a
+    language: Chichewa
+    offset_days: 42
+    sms_text: >
+      Tsopano pakuti ndinu woyembekezera, mukuyenera kusamalitsa pa mankhwala
+      omwe muzimwa. Asipulini komanso Brufeni simuyenera kumwa pamene muli
+      oyemebekezera, koma panadolo mukhoza kumwa mwa apo ndi apo.
+  - name: sms-year1-week7a-yao
+    title: SMS Year 1, Week 7a
+    language: Chiyao
+    offset_days: 42
+    sms_text: >
+      Sambanotu mkwete msigo samalani mtela. Asipulini ni ibuprofen ngawa
+      mitelo jambone kwa msimayi jwa msigo. Paracetamol ali jwambone.
+
+  - name: sms-year1-week7b-eng
+    title: SMS Year 1, Week 7b
+    language: English
+    offset_days: 45
+    sms_text: >
+      You might not look or feel pregnant. But your uterus is expanding to
+      accommodate your baby and, as this is happening, you might feel some
+      cramps or mild pains
+  - name: sms-year1-week7b-chewa
+    title: SMS Year 1, Week 7b
+    language: Chichewa
+    offset_days: 45
+    sms_text: >
+      Mukhoza kumaona kapena kumva ngati mulibe pakati koma zindikirani kuti
+      chibelekero chanu chikukula pang'onopang'ono kupeleka mpata kwa mwanu
+      wanu kuti akule bwino. Chifukwa cha zimenezi, mutha kumamva kupweteka
+      pang'ono kwa m'mimba
+  - name: sms-year1-week7b-yao
+    title: SMS Year 1, Week 7b
+    language: Chiyao
+    offset_days: 45
+    sms_text: >
+      Mmwejo ngawa mkuoneka mpera mkwete msigo nambo chiwelechelo chenu
+      chisatandaga kula kwembechela likandi. Pakutendeka yeleyi timpikaneje
+      kong'ondala kwa mitasi nima ndindindi.
+
+  - name: sms-year1-week8a-eng
+    title: SMS Year 1, Week 8a
+    language: English
+    offset_days: 49
+    sms_text: >
+      Malaria is very dangerous. It can cause low blood in the mother&
+      miscarriage-where you lose the baby. Help yourself by sleeping under
+      insecticide treated nets
+  - name: sms-year1-week8a-chewa
+    title: SMS Year 1, Week 8a
+    language: Chichewa
+    offset_days: 49
+    sms_text: >
+      Malungu ndi matenda woopysa chifukwa amachepetsa magazi mthupi mwanu
+      ngakhalenso kupangitsa kuti pakati pachoke. Dzitetezeni ku malungo
+      pogona mu masikito omwe ali ndi mankhwala nthawi zonse.
+  - name: sms-year1-week8a-yao
+    title: SMS Year 1, Week 8a
+    language: Chiyao
+    offset_days: 49
+    sms_text: >
+      Malungo gali gakokoya gasanondipyisya myasi mchilu mwa mayi soni
+      kwasika kwa msigo.Agonedye mmasikito ga mtela.
+
+  - name: sms-year1-week8b-eng
+    title: SMS Year 1, Week 8b
+    language: English
+    offset_days: 52
+    sms_text: >
+      You may be more tired than usual. Ask for help with heavy work like
+      fetching water or firewood. Try to take time to relax your body & your
+      mind when you can.
+  - name: sms-year1-week8b-chewa
+    title: SMS Year 1, Week 8b
+    language: Chichewa
+    offset_days: 52
+    sms_text: >
+      Mwina muzimva kutopa kwambiri kuposa kale. Pemphani azanu kuti
+      akuthandizeni kugwira ntchito zolemetsa monga kukatunga madzi kapena
+      kukatolera  nkhuni. Yesetsani kupeza nthawi yopumitsa thupi lanu
+      komanso kuchepetsa nkhawa ngati mungakwanitse kutero.
+  - name: sms-year1-week8b-yao
+    title: SMS Year 1, Week 8b
+    language: Chiyao
+    offset_days: 52
+    sms_text: >
+      Tiweje wakusakalika kulekangana nikala. Mwawende wane kuti amkamusye
+      masengo mpera kuteka mesi kulokota sasu. Mpumusyeje chilu chenu
+      ninganisyo syenu
+
+
+  - name: sms-year1-week9a-eng
+    title: SMS Year 1, Week 9a
+    language: English
+    offset_days: 56
+    sms_text: >
+      At ANC you will have lab tests to make sure all is well. They look for
+      infection, check blood level & type. These tests help find problems
+      that can be treated
+  - name: sms-year1-week9a-chewa
+    title: SMS Year 1, Week 9a
+    language: Chichewa
+    offset_days: 56
+    sms_text: >
+      Ku sikelo muzayedwa kuti muthandizidwe moyenera. Kuyesaku kumathandiza
+      achipatala kuzindikira matenda osiyanasiyana mwansanga kuti akuchizeni
+      komanso kudziwa mtundu wa magazi anu.
+  - name: sms-year1-week9a-yao
+    title: SMS Year 1, Week 9a
+    language: Chiyao
+    offset_days: 56
+    sms_text: >
+      Kusikelo timchijaula mnyumba jakwambulira pakulola kuti yosope yene ili
+      chenene. Akisalolaga ilwele, kulola myasi, mujiwelele ni mtundu wa
+      myasi. Kulinga kweleku akisasosaga kuti ajilole vuto tukwete kuti
+      atukamusye
+
+  - name: sms-year1-week9b-eng
+    title: SMS Year 1, Week 9b
+    language: English
+    offset_days: 59
+    sms_text: >
+      Visit a clinic if you are feeling  very thirsty, but not urinating
+      much. This can be a sign of gestational diabetes.
+  - name: sms-year1-week9b-chewa
+    title: SMS Year 1, Week 9b
+    language: Chichewa
+    offset_days: 59
+    sms_text: >
+      Pitani ku chipatala ngati muzimva ludzu kwambiri ngakhale simukukodza
+      kwambiri. Izi ndi zina mwa zizindikiro za matenda a shuga azimai
+      woyemebekezera
+  - name: sms-year1-week9b-yao
+    title: SMS Year 1, Week 9b
+    language: Chiyao
+    offset_days: 59
+    sms_text: >
+      Mjaule ku chipatala pa ndawi jimkumwa mesi kwenjinji nambo ngimkutunda
+      kwenjinji. Achitu chikuwa chimanyiso cha chiliwele cha suga.
+
+  - name: sms-year1-week10a-eng
+    title: SMS Year 1, Week 10a
+    language: English
+    offset_days: 63
+    sms_text: >
+      The ANC is your partner in the pregnancy. It is important to go to all
+       4 of your visits to use the tablets that they have given to you.
+  - name: sms-year1-week10a-chewa
+    title: SMS Year 1, Week 10a
+    language: Chichewa
+    offset_days: 63
+    sms_text: >
+      Chipatala cha sikelo ndi m'bale wanu panthawi yomwe muli ndi pakati.
+      Ndikofunika kwambiri kupita ku sikelo maulendo onse anai oyikika pamene
+      muli ndi pakati komanso kumwa mankhwala onse mwapatsidwa.
+  - name: sms-year1-week10a-yao
+    title: SMS Year 1, Week 10a
+    language: Chiyao
+    offset_days: 63
+    sms_text: >
+      Wakusikelo akuwa ajetu pandawi ja msigo. Kwakusoseka kwaula kamcheche
+      kosope kene kuti m'mwee mapilisi gampele m'mwejo
+
+  - name: sms-year1-week10b-eng
+    title: SMS Year 1, Week 10b
+    language: English
+    offset_days: 66
+    sms_text: >
+      Your baby's fingernails and fuzzy hair are appearing and it's able to
+      do things like swallowing and kicking. In the next 3 weeks, your baby
+      will double in size
+  - name: sms-year1-week10b-chewa
+    title: SMS Year 1, Week 10b
+    language: Chichewa
+    offset_days: 66
+    sms_text: >
+      Pano mwana wanu wayamba kumera zala komanso tsitsi ndipo akumatha
+      kumeza komanso kugunda. Masabata atatu akubwerawa, mwana wanu akhala
+      atakula kwambiri.
+  - name: sms-year1-week10b-yao
+    title: SMS Year 1, Week 10b
+    language: Chiyao
+    offset_days: 66
+    sms_text: >
+      Likandi lyenu lisatandaga kumela ngalewesa ni tiumbo soni kasatangdaga
+      kutenda ine ni ine mpera kumila nikutakataka. Pakumala pa milungu
+      jitatu likandi lyenu lisakulaga kwejinji.
+
+  - name: sms-year1-week11a-eng
+    title: SMS Year 1, Week 11a
+    language: English
+    offset_days: 70
+    sms_text: >
+      Today is the end of early pregnancy. This is good news as the risk of
+      miscarriage is less and many women feel less sick than before.
+  - name: sms-year1-week11a-chewa
+    title: SMS Year 1, Week 11a
+    language: Chichewa
+    offset_days: 70
+    sms_text: >
+      Lero ndi tsiku lomaliza la gawo loyamba la pakati panu. Iyi ndi nkhani
+      yosangalatsa chifukwa zikutanthauza kuti pakati panu pakhazikika ndipo
+      zovuta zina ndi zina za mthupi zichepa
+  - name: sms-year1-week11a-yao
+    title: SMS Year 1, Week 11a
+    language: Chiyao
+    offset_days: 70
+    sms_text: >
+      Lero ni lisiku lakumaliisya lyandanda la msigo.Aji ni ngani jambone
+      pakutitu ngani jakupita pachabe jinandipe ni achikamawo wangapikana
+      soni kupweteka mpera kala
+
+  - name: sms-year1-week11b-eng
+    title: SMS Year 1, Week 11b
+    language: English
+    offset_days: 73
+    sms_text: >
+      You won't hurt your baby by having sex when you are pregnant. Just keep
+      it gentle and avoid deep using anything that might irritate you.
+  - name: sms-year1-week11b-chewa
+    title: SMS Year 1, Week 11b
+    language: Chichewa
+    offset_days: 73
+    sms_text: >
+      Kugonana nthawi ino sikolakwika koma zimangofunika kuti muzipanga
+      pang'onopang'ono komanso osagwiritsa chinthu chirichose chomwe
+      chingakusowetseni mtendere.
+  - name: sms-year1-week11b-yao
+    title: SMS Year 1, Week 11b
+    language: Chiyao
+    offset_days: 73
+    sms_text: >
+      Ngawa mkupweteka mwanache pakutenda chikululu pandawi jimkwete msigo.
+      Mtendeje panandipanandi nambo mjogope chili chose chimpakana
+      chimpweteche mmwejo.
+
+  - name: sms-year1-week12a-eng
+    title: SMS Year 1, Week 12a
+    language: English
+    offset_days: 77
+    sms_text: >
+      You might find that you want to eat strange things while you are
+      pregnant.  It's best to stick to healthy foods like meat, beans, eggs,
+      fruits and vegetables.
+  - name: sms-year1-week12a-chewa
+    title: SMS Year 1, Week 12a
+    language: Chichewa
+    offset_days: 77
+    sms_text: >
+      Mutha kuona kuti mukufuna zakudya zodabwitsa panthawi ino koma ndibwino
+      muzidya zakudya zoyenera monga nyama, nyemba, zamasamba ndi zipatso
+  - name: sms-year1-week12a-yao
+    title: SMS Year 1, Week 12a
+    language: Chiyao
+    offset_days: 77
+    sms_text: >
+      Pane mwine mkisasosaga kulya indu yausimonga mlikwete msigo. Kuli
+      kwambone kulyaga indu yaukoto mpera nyama, mbwanda, isogosi ni masamba.
+
+  - name: sms-year1-week12b-eng
+    title: SMS Year 1, Week 12b
+    language: English
+    offset_days: 80
+    sms_text: >
+      You might feel dizzy while you're pregnant. If you feel dizzy take a
+      light snack. Try to avoid the hot sun and stand up slowly.
+  - name: sms-year1-week12b-chewa
+    title: SMS Year 1, Week 12b
+    language: Chichewa
+    offset_days: 80
+    sms_text: >
+      Mutha kumamva chizungulire nthawi zina, zikatero muyenera kudya tinthu
+      tofewa, pewani kukhala pa dzuwa ndipo poyimilira muime pang'onopang'ono.
+  - name: sms-year1-week12b-yao
+    title: SMS Year 1, Week 12b
+    language: Chiyao
+    offset_days: 80
+    sms_text: >
+      Ndawi sine mkisaaga chisyungulire pa ndawi ja msigo. Naga mkulola
+      chisyungulire mwani mkaka, ngajenda palyuwa soni ngajima ndawi jerewu.
+
+  - name: sms-year1-week13a-eng
+    title: SMS Year 1, Week 13a
+    language: English
+    offset_days: 84
+    sms_text: >
+      Have you gone to ANC yet? If not, it's definitely time to go. The
+      baby's father should go with you so you can both learn how to have a
+      healthy pregnancy.
+  - name: sms-year1-week13a-chewa
+    title: SMS Year 1, Week 13a
+    language: Chichewa
+    offset_days: 84
+    sms_text: >
+      Mwayamba sikelo? Ngati simunayambe mukuyenera mupite mwansanga, inu
+      pamodzi ndi amuna anu kuti nawonso akathe kuphunzira nawo za m'mene
+      angakusamalireni nthawi ino pomwe muli ndi pakati.
+  - name: sms-year1-week13a-yao
+    title: SMS Year 1, Week 13a
+    language: Chiyao
+    offset_days: 84
+    sms_text: >
+      Ana mwapite ku sikelo? Naga iyayi sambano jaulani. Mjaule niwamkwenu
+      kuti osope mkalijiganye malamusi gasamalira msigo.
+
+  - name: sms-year1-week13b-eng
+    title: SMS Year 1, Week 13b
+    language: English
+    offset_days: 87
+    sms_text: >
+      Discharge is normal in pregnancy. If it becomes foul-smelling, thick,
+      yellow, green, or if it itches or burns, you might have an infection.
+      Go to the clinic.
+  - name: sms-year1-week13b-chewa
+    title: SMS Year 1, Week 13b
+    language: Chichewa
+    offset_days: 87
+    sms_text: >
+      Kutulutsa chikazi ndikosadetsa nkhawa pamene muli ndi pakati, koma
+      ngati muyamba kutulutsa chikazi chodabwitsa monga cha fungo,
+      chachikasu, cha green, cholimba kaya choyabwa kapena kuwotcha zikhoza
+      kutheka kuti muli ndi matenda ndipo mukuyenera kupita ku chipatala
+      mwansanga.
+  - name: sms-year1-week13b-yao
+    title: SMS Year 1, Week 13b
+    language: Chiyao
+    offset_days: 87
+    sms_text: >
+      Kwasi mesi ngawa yausimokwa mama wana chilu. Naga itanidte kununga,
+      kandapala, chindandanda, gilini mwine kunyanya mwine koocha nikuti
+      mkwete chilwele.Jaulani ku chipatala.
+
+  - name: sms-year1-week14a-eng
+    title: SMS Year 1, Week 14a
+    language: English
+    offset_days: 91
+    sms_text: >
+      Women may start pregnancy with low iron, which can cause the baby to be
+      born small. To keep your iron up, take your iron tablets and eat meat,
+      greens and eggs.
+  - name: sms-year1-week14a-chewa
+    title: SMS Year 1, Week 14a
+    language: Chichewa
+    offset_days: 91
+    sms_text: >
+      Zimatheka kukhala ndi magazi ochepa pamene mzimai ali oyembekezera
+      kumayambiliro zimene zingachitse kuti mwana abadwe wasikelo yotsika.
+      Muyenera kumamwa mankhwala owonjezera magazi komanso nyama, zamasamba
+      komanso mazira.
+  - name: sms-year1-week14a-yao
+    title: SMS Year 1, Week 14a
+    language: Chiyao
+    offset_days: 91
+    sms_text: >
+      Achikamawo mpaka atande msigo ni aironi jwa mnono ayi isatendesyaga
+      kuti likandilyo lipagwe lyakusesewala. kuti mkole aironi jakwanila
+      mmwee mapilisi ga aironi soni mlyeje masamba ni mandanda
+
+  - name: sms-year1-week14b-eng
+    title: SMS Year 1, Week 14b
+    language: English
+    offset_days: 94
+    sms_text: >
+      Feeling very tired now is normal as your  uterus grows to fit the
+      growing baby. Try to get rest when you can.  Sleep under a net to stay
+      safe from malaria.
+  - name: sms-year1-week14b-chewa
+    title: SMS Year 1, Week 14b
+    language: Chichewa
+    offset_days: 94
+    sms_text: >
+      Kutopa nthawi ino nkosadetsa nkhawa chifukwa  chibelekero chanu
+      chikukula.Muziyesetsa kupeza nthawi yopuma. Muzigona mumasikito kuti
+      mutetezedwe ku malungo
+  - name: sms-year1-week14b-yao
+    title: SMS Year 1, Week 14b
+    language: Chiyao
+    offset_days: 94
+    sms_text: >
+      Kusakalika kwangawa kwa usimongo pakuti chimkusunga likandi chisawaga
+      chikula kuti chisunje likandi.Pumulagani kwa kwanila.Gonani muukonde
+      pakuteteya ku malungo
+
+  - name: sms-year1-week15a-eng
+    title: SMS Year 1, Week 15a
+    language: English
+    offset_days: 98
+    sms_text: >
+      At your ANC visit, the blood tests will help find and treat any
+      infections you have that could harm the baby. Your baby is counting on
+      you to stay healthy.
+  - name: sms-year1-week15a-chewa
+    title: SMS Year 1, Week 15a
+    language: Chichewa
+    offset_days: 98
+    sms_text: >
+      Kuyezedwa  magazi thawi yomwe muli  kusikelo kumathandiza kuti mudziwe
+      komanso kuthetsa matenda omwe muli nawo omwe angathe akanatha kuononga
+      mwana wanu. Mwana wanu akudalira inu kuti akhale wathanzi
+  - name: sms-year1-week15a-yao
+    title: SMS Year 1, Week 15a
+    language: Chiyao
+    offset_days: 98
+    sms_text: >
+      Kwaula kusikelo  kulinjisya myasi kusakamuchisyaga kuti chilwele chili
+      chonse a chipe mtela kuti likandilyenu likakamulwa ni chilwelecho.
+      Likandi lyenu lisamkulupilira m'mwejo kuti litame lya ukoto
+
+  - name: sms-year1-week15b-eng
+    title: SMS Year 1, Week 15b
+    language: English
+    offset_days: 101
+    sms_text: >
+      Your baby is growing quickly now. It is important to eat dairy now,
+      like milk, and yoghurt, milk. Also, make sure your salt is iodated.
+  - name: sms-year1-week15b-chewa
+    title: SMS Year 1, Week 15b
+    language: Chichewa
+    offset_days: 101
+    sms_text: >
+      Mwana wanu akukula mwachangu, ndibwino muzidya zinthu monga; mkaka,
+      yogati komanso mchere womwe uli ndi mankhwala oteteza inu ku matenda a
+      chithokomilo
+  - name: sms-year1-week15b-yao
+    title: SMS Year 1, Week 15b
+    language: Chiyao
+    offset_days: 101
+    sms_text: >
+      Likandi lyenu likukula sambano mwakuutuka. Sambano pakusoseka kuti
+      mlyeje lisiku lililose yindu mpera mkaka yogati. Soni njete jiweje
+      jwa ayodini.
+
+  - name: sms-year1-week16a-eng
+    title: SMS Year 1, Week 16a
+    language: English
+    offset_days: 105
+    sms_text: >
+      Remember to drink plenty of water! Try for at two or three litres each
+      day. Avoid taking alcoholic or too many caffeinated beverages.
+  - name: sms-year1-week16a-chewa
+    title: SMS Year 1, Week 16a
+    language: Chichewa
+    offset_days: 105
+    sms_text: >
+      Kumbukirani kumwa madzi ambiri. Yesetsani kumwa madzi okwana ma lita
+      awiri kapena atatu patsiku. Pewani kumwa mowa komanso tea wotsira khofi
+  - name: sms-year1-week16a-yao
+    title: SMS Year 1, Week 16a
+    language: Chiyao
+    offset_days: 105
+    sms_text: >
+      Ngaliwalira kumwa mesi gejinji! M'mwee mesi gakwana malita gawiri mwine
+      gatatu pa lisiku.Ngamwaga ukana mwine kwemba sona.
+
+  - name: sms-year1-week16b-eng
+    title: SMS Year 1, Week 16b
+    language: English
+    offset_days: 108
+    sms_text: >
+      Bleeding at this time in pregnancy could be a sign of something
+      serious. If you start bleeding go to the health center immediately.
+  - name: sms-year1-week16b-chewa
+    title: SMS Year 1, Week 16b
+    language: Chichewa
+    offset_days: 108
+    sms_text: >
+      Kutaya magazi nthawi yino ndi chizindikiro choopsa.  Moti mutaona kuti
+      mwayamba kutaya magazi, thamangilani kuchipatala mwansanga.
+  - name: sms-year1-week16b-yao
+    title: SMS Year 1, Week 16b
+    language: Chiyao
+    offset_days: 108
+    sms_text: >
+      Kwasa kwa myasi akano katema chisawaga chilosyo chakusausya kwa indu.
+      Naga mtandite kopsya myasi jaulani ku chipatala mwamsanga
+
+  - name: sms-year1-week17a-eng
+    title: SMS Year 1, Week 17a
+    language: English
+    offset_days: 112
+    sms_text: >
+      Remember that the evil eye doesn't cause complications but rather
+      medical conditions cause problems. Its time to go to antenatal care
+      at your nearest clinic.
+  - name: sms-year1-week17a-chewa
+    title: SMS Year 1, Week 17a
+    language: Chichewa
+    offset_days: 112
+    sms_text: >
+      Kumbukirani kuti dinso la nsanje siliyambitsa mavuto ena aliwonse koma
+      kuti mavuto a mthupi ndiwo amayambitsa mavuto. Ino ndi thawi  yopita
+      kusikelo kuchipatala chomwe muli nacho pafupi.
+  - name: sms-year1-week17a-yao
+    title: SMS Year 1, Week 17a
+    language: Chiyao
+    offset_days: 112
+    sms_text: >
+      Ngaliwalira kuti ukangani ngawa mkupeleka vuto ku likandi nambo mitela
+      mpaakana jipeleche vuto. Aji ni ndawi jwakwaula kuchipatala
+
+  - name: sms-year1-week17b-eng
+    title: SMS Year 1, Week 17b
+    language: English
+    offset_days: 115
+    sms_text: >
+      Now is a good time to start to plan for your baby's arrival at the
+      health center. Put down small money weekly for things needed at
+      delivery like baby napkins.
+  - name: sms-year1-week17b-chewa
+    title: SMS Year 1, Week 17b
+    language: Chichewa
+    offset_days: 115
+    sms_text: >
+      Ino ndi nthawi yoyenera kuyamba kukozekera kubadwa kwa mwana wanu.
+      Yambani kusunga ndalama yoti mugulire zinthu zomwe zimafunika mwana
+      akabadwa monga matewela
+  - name: sms-year1-week17b-yao
+    title: SMS Year 1, Week 17b
+    language: Chiyao
+    offset_days: 115
+    sms_text: >
+      Sambano ajino ni ndawi jambone kutenda matala gakombolecheka kuti
+      likandilyo silipagwe ku chipatala. Msunje mbiya mlungu uliwonse pa
+      yayindu yakumpochelela mwanache mpera matewela.
+
+  - name: sms-year1-week18a-eng
+    title: SMS Year 1, Week 18a
+    language: English
+    offset_days: 119
+    sms_text: >
+      Piles are swellings around the anus. They can cause itching & bleeding
+      after using the toilet. They are common in pregnancy from the pressure
+      of extra weight.
+  - name: sms-year1-week18a-chewa
+    title: SMS Year 1, Week 18a
+    language: Chichewa
+    offset_days: 119
+    sms_text: >
+      Matenda a mudzi ndi kutupa komwe kumakhala pamalo ochitira chimbudzi.
+      Matendawa amapangidwa munthu kumva kuyabwa komanso kutaya magazi
+      akatha kuchita chimbudzi. Izi sizachilendo panthawi yomwe mai ali
+      oyembekekezera chifukwa sikelo yake  imakwera kwambiri
+  - name: sms-year1-week18a-yao
+    title: SMS Year 1, Week 18a
+    language: Chiyao
+    offset_days: 119
+    sms_text: >
+      Msigo ukuwa soni ni ilonda kusyungulira pakopechera chimbusi. yeleyi
+      isanyanyaga, naga m'malisisye chimbusi miyasi isoanekaga ayi
+      achikambawo wali ni msigo yangosowa ligongo lya kusitopa kwa likandi
+
+  - name: sms-year1-week18b-eng
+    title: SMS Year 1, Week 18b
+    language: English
+    offset_days: 122
+    sms_text: >
+      To help prevent piles, try not to get constipated. Eat foods with lots
+      of fibre like fruits & vegetables.
+  - name: sms-year1-week18b-chewa
+    title: SMS Year 1, Week 18b
+    language: Chichewa
+    offset_days: 122
+    sms_text: >
+      Kuti mupewe matenda a mudzi, pewani kudzimbidwa. Idyani zakudya
+      zoteteza kudzimbidwa monga zipatso ndi za masamba.
+  - name: sms-year1-week18b-yao
+    title: SMS Year 1, Week 18b
+    language: Chiyao
+    offset_days: 122
+    sms_text: >
+      Pakuliteteya kuilonda ngalyaga kwejinji. Mleeje yakulya yakamusya
+      kupukusa yakulya mpera isogosi ni masamba.
+
+  - name: sms-year1-week19a-eng
+    title: SMS Year 1, Week 19a
+    language: English
+    offset_days: 126
+    sms_text: >
+      Congratulations! You are about halfway through your pregnancy. If you
+      haven't been to ANC yet please go now, even if you feel fine.
+  - name: sms-year1-week19a-chewa
+    title: SMS Year 1, Week 19a
+    language: Chichewa
+    offset_days: 126
+    sms_text: >
+      Nyadilani!  pano mukuyandikira pakatikati pa  masiku a kuyembekezera
+      kwanu. Ngati  simuyambe sikelo, chonde kayambeni tsopano ngakhale
+      mulibe vuto lirilonse.
+  - name: sms-year1-week19a-yao
+    title: SMS Year 1, Week 19a
+    language: Chiyao
+    offset_days: 126
+    sms_text: >
+      Masosagambone! Sambano mkuwandichila m'chilikati mwa msigo wenu. Naga
+      mkanimtande kwaula ku sekelo chonde jaulani sambano mka kulwala.
+
+  - name: sms-year1-week19b-eng
+    title: SMS Year 1, Week 19b
+    language: English
+    offset_days: 129
+    sms_text: >
+      Be careful not to take any traditional medicines to facilitate
+      pregnancy. These can be harmful. Always check with a nurse first.
+  - name: sms-year1-week19b-chewa
+    title: SMS Year 1, Week 19b
+    language: Chichewa
+    offset_days: 129
+    sms_text: >
+      Musamwe mankwala ena aliwonse achikuda kuti mulimbitse pakati panu
+      chifukwa izi ndizoopsya. Nthawi zonse muzifunsa anamwino kaye musamwe
+      mankhwala.
+  - name: sms-year1-week19b-yao
+    title: SMS Year 1, Week 19b
+    language: Chiyao
+    offset_days: 129
+    sms_text: >
+      Msamale ngajigala isamba iliyounse kuti imlamulire msigo wenu. Yeleyi
+      isajonangaga, ndanwi syosope mkulupilire wa chipatala.
+
+  - name: sms-year1-week20a-eng
+    title: SMS Year 1, Week 20a
+    language: English
+    offset_days: 133
+    sms_text: >
+      At ANC visits, you will have a Tetanus Toxoid (TT) vaccine during
+      pregnancy, to stop you or your baby from getting tetanus, which is a
+      serious infection.
+  - name: sms-year1-week20a-chewa
+    title: SMS Year 1, Week 20a
+    language: Chichewa
+    offset_days: 133
+    sms_text: >
+      Kusikelo mukalandira katemera wakafumbata yemwe azateteze inu ndi mwana
+      wanu kumatenda a kafumbata omwe ndi woopsya.
+  - name: sms-year1-week20a-yao
+    title: SMS Year 1, Week 20a
+    language: Chiyao
+    offset_days: 133
+    sms_text: >
+      Kwaula ku sikelo tachimpa jakisoni jwa kafumbata pa ndawi ja msigo
+      pakumnche nganya m'mwenjo ni mwanache jumkanapagwe
+
+  - name: sms-year1-week20b-eng
+    title: SMS Year 1, Week 20b
+    language: English
+    offset_days: 136
+    sms_text: >
+      Go to the clinic right away if you have:heavy/painful bleeding,
+      dizziness,fast heartbeat,bad headache,fever,vomiting,bloody/dark urine
+      or urination pain.
+  - name: sms-year1-week20b-chewa
+    title: SMS Year 1, Week 20b
+    language: Chichewa
+    offset_days: 136
+    sms_text: >
+      Thamangilani ku chipatala ngati muona izi: kutaya magazi kwambiri
+      kapena kupweteka, kuchita chizungulire, mtima kuthamanga, kupweteka
+      kwa mutu, kutentha thupi, kusanza, kukodza mkodzo wosakanizana ndi
+      magazi kapena wakuda, kumva kupweteka pamene mukukodza
+  - name: sms-year1-week20b-yao
+    title: SMS Year 1, Week 20b
+    language: Chiyao
+    offset_days: 136
+    sms_text: >
+      Ajaule ku chipitala mwachangu pali apikene kupweteka kwejinji,
+      kukoposya myasi, chilungulira ni kuputa kwaluwilo kwa mtima, Kupweteka
+      kwa mtwe, kutapika, makweso gapi liwu nikupweteka pakutanda.
+
+  - name: sms-year1-week21a-eng
+    title: SMS Year 1, Week 21a
+    language: English
+    offset_days: 140
+    sms_text: >
+      Your baby can hear you now! If you and your husband talk to the baby,
+      it can get to know your voices before it's born.
+  - name: sms-year1-week21a-chewa
+    title: SMS Year 1, Week 21a
+    language: Chichewa
+    offset_days: 140
+    sms_text: >
+      Mwana wanu akumatha kukumvani tsopano, ngati inu kapena bambo ake
+      azimuyankhulitsa, azolowera mau anu ngakhale asabadwe.
+  - name: sms-year1-week21a-yao
+    title: SMS Year 1, Week 21a
+    language: Chiyao
+    offset_days: 140
+    sms_text: >
+      Sambano mwanache jwenu komboleka kupikana malowe genu ni wa mkwenu.
+      Mwanache jwenu mpakana kumanyilira malowe genu jumkunapagwe.
+
+  - name: sms-year1-week21b-eng
+    title: SMS Year 1, Week 21b
+    language: English
+    offset_days: 143
+    sms_text: >
+      Now is a good time to think about baby's arrival & your delivery. Have
+      you thought about transport to hospital or clinic in an emergency?
+  - name: sms-year1-week21b-chewa
+    title: SMS Year 1, Week 21b
+    language: Chichewa
+    offset_days: 143
+    sms_text: >
+      Ino nthawi yoti muziganiza zakubadwa kwa mwana wanu. Kodi
+      munaganizirako za mayendedwe aku chipatala ngati patafunika kutero
+      mwadzidzidzi?
+  - name: sms-year1-week21b-yao
+    title: SMS Year 1, Week 21b
+    language: Chiyao
+    offset_days: 143
+    sms_text: >
+      Ndawi aji nijambone ganichisila yakupagwa kwanache jwenu. Ana
+      mkozechele majendedwe gakuchipitala ulewele uli utandite mwasisi?
+
+  - name: sms-year1-week22a-eng
+    title: SMS Year 1, Week 22a
+    language: English
+    offset_days: 147
+    sms_text: >
+      It is safe to have sex while pregnant, but if one of you is HIV+, use
+      condoms. An HIV+ pregnant woman will be given medicines to protect the
+      baby from HIV.
+  - name: sms-year1-week22a-chewa
+    title: SMS Year 1, Week 22a
+    language: Chichewa
+    offset_days: 147
+    sms_text: >
+      Kugonana pamene muli ndi pakati kulibe vuto koma ngati mmodzi wa inu
+      ali ndikachilombo ka HIV, muyenera kugwiritsa ntchito makondomu. Mai
+      amene oyemebkezera komanso ali ndi kachilombo ka HIV amapatsidwa
+      mankhwala oteteza mwana wake kuti asatengere kachilomboka.
+  - name: sms-year1-week22a-yao
+    title: SMS Year 1, Week 22a
+    language: Chiyao
+    offset_days: 147
+    sms_text: >
+      Pangali chakusyausya kugonagona pali akwete msigo, nambo mmanyilire
+      kuti jwine akwete kachilombo ka HIV. msimayi jwa msigo jwasimanikwe ni
+      HIV asapochela mtela wakuteteya kachilombo ka HIV.
+
+  - name: sms-year1-week22b-eng
+    title: SMS Year 1, Week 22b
+    language: English
+    offset_days: 150
+    sms_text: >
+      To keep your baby safe, you need 2 tetanus shots before or during
+      pregnancy. The shots are given at ANC. One more reason to go for all
+      four visits.
+  - name: sms-year1-week22b-chewa
+    title: SMS Year 1, Week 22b
+    language: Chichewa
+    offset_days: 150
+    sms_text: >
+      Kuti mwana wanu akhale wotetezedwa ku matenda akafumbata, muyenera
+      kulandira katemera wakafumbata kawiri nthawi imene muli oyembekezera
+      kapena mulibe pakati. Ketemerayu amapelekedwa ku sikelo, ichi ndi
+      chifukwa chimodzi chomwe muyenerela kupita ku sikelo kanai monga
+      mwandondomeko yake.
+  - name: sms-year1-week22b-yao
+    title: SMS Year 1, Week 22b
+    language: Chiyao
+    offset_days: 150
+    sms_text: >
+      Pakumteteya mwanache jwenu, pakusoseka kupochela jakisoni jwa kafumbata
+      kawili kanimkole msigo mwine mli mkwete. Katemelaju asapelekega ku
+      sikelo. Ali likuwa ligongo lakwaulira kamcheche kosope kene
+
+  - name: sms-year1-week23a-eng
+    title: SMS Year 1, Week 23a
+    language: English
+    offset_days: 154
+    sms_text: >
+      You & your baby need folic acid. At ANC, you will get folic acid
+      tablets that will help your baby's brain and spine to grow well and
+      will help keep your iron up
+  - name: sms-year1-week23a-chewa
+    title: SMS Year 1, Week 23a
+    language: Chichewa
+    offset_days: 154
+    sms_text: >
+      Inu ndi mwana wanu mukufunika kulandira mapilitsi omwe umathandiza
+      ubongo wamwana komanso msana ukule bwino komanso mchere umene umapanga
+      magazi anu uchuluke
+  - name: sms-year1-week23a-yao
+    title: SMS Year 1, Week 23a
+    language: Chiyao
+    offset_days: 154
+    sms_text: >
+      Mmwejo ni mwanache jwenu mkusoseka kupochela mtela wa folic acid.
+      Kusikelo timchipochela mapilisi ga folic acid gakumkamusyaga ututu wa
+      mwanache jwenu ni mgongo kuti siukule chenene nikonjechesya aironi.
+
+  - name: sms-year1-week23b-eng
+    title: SMS Year 1, Week 23b
+    language: English
+    offset_days: 157
+    sms_text: >
+      As your body changes to fit the baby, you may get pains in your
+      stomach or womb. Relax for a moment to let the pain pass. Take your
+      time getting up from bed
+  - name: sms-year1-week23b-chewa
+    title: SMS Year 1, Week 23b
+    language: Chichewa
+    offset_days: 157
+    sms_text: >
+      Mutha kumva kupweteka pamene thupi lanu likusintha kupeleka mpata
+      kwa mwana wanu kuti akhale bwinobwino. Pumani ku zintchito mpaka
+      kupwetekaku kuthe komanso mukamdzuka kuchokera pa bedi muzidzuka
+      pang'onopang'ono
+  - name: sms-year1-week23b-yao
+    title: SMS Year 1, Week 23b
+    language: Chiyao
+    offset_days: 157
+    sms_text: >
+      Pakuchenja chilu chenu kuti mwanachejo apate malo timipikanaje
+      kupweteka m'chitumbo ni m'chiwelechero mwenu. Mkagano kwakandawi kuti
+      kupwetekako kumale.Mgone kwakandawi kuti yosopeyene itondowe.
+
+  - name: sms-year1-week24a-eng
+    title: SMS Year 1, Week 24a
+    language: English
+    offset_days: 161
+    sms_text: >
+      Ever have a burning feeling in your chest after you eat? It is common
+      in pregnancy & not dangerous. To help, avoid spicy, oily foods & try a
+      glass of cold milk
+  - name: sms-year1-week24a-chewa
+    title: SMS Year 1, Week 24a
+    language: Chichewa
+    offset_days: 161
+    sms_text: >
+      Munamvapo kuwotcha pamtima mukatha kudya? Izi sizachilendo komanso
+      sizoopysa pamene muli ndi pakati. Mutha kuthana ndi vutoli popewa kudya
+      za mafuta, zotsira zokometsa komanso pakumwa mkaka wozizira.
+  - name: sms-year1-week24a-yao
+    title: SMS Year 1, Week 24a
+    language: Chiyao
+    offset_days: 161
+    sms_text: >
+      Ana mkupikana kuocha pamtima limlile? Ayi isatendekwaga kwamundu
+      jwakwete msigo, nambo pangali yakogoya. Pakumasya yeleyi mkalyaga
+      yakunonyelesya mpela sabola, yamauta kwejinji nambo kumwaga mkaka.
+
+  - name: sms-year1-week24b-eng
+    title: SMS Year 1, Week 24b
+    language: English
+    offset_days: 164
+    sms_text: >
+      Many pregnant women find that they forget things or feel confused. It
+      is not a medical problem, but it can be upsetting. Try not to let it
+      worry you
+  - name: sms-year1-week24b-chewa
+    title: SMS Year 1, Week 24b
+    language: Chichewa
+    offset_days: 164
+    sms_text: >
+      Azimai ambiri amaiwala ngakhalenso kusokonezeka mmaganizo. Ili sivuto
+      loti mungapite nalo ku chipatala ngakhale zimakhumudwitsa. Musamade
+      nkhawa ndi vutoli.
+  - name: sms-year1-week24b-yao
+    title: SMS Year 1, Week 24b
+    language: Chiyao
+    offset_days: 164
+    sms_text: >
+      Asimayi wejinji wamsigo asaliwaliraga yindu nikusokonechenesyeka. Aji
+      ngawa vuto lakuchipatala nambo kudandaula. Sambano ikamdandaulisya.
+
+  - name: sms-year1-week25a-eng
+    title: SMS Year 1, Week 25a
+    language: English
+    offset_days: 168
+    sms_text: >
+      Only take medicines that are given to you by a health worker who knows
+      you are pregnant. Some medicines, including traditional ones, can harm
+      the baby
+  - name: sms-year1-week25a-chewa
+    title: SMS Year 1, Week 25a
+    language: Chichewa
+    offset_days: 168
+    sms_text: >
+      Imwani mankhwala okhawo omwe mwapatsidwa ndi achipatala omwe akudziwa
+      kuti muli ndi pakati. Mankhwala ena kuphazitizapo achikuda akhoza
+      kupweteka mwana wanu.
+  - name: sms-year1-week25a-yao
+    title: SMS Year 1, Week 25a
+    language: Chiyao
+    offset_days: 168
+    sms_text: >
+      Mmwe mtelapewo umpochele kutyochela kwa mundu jwachipatala, jwa
+      kumanyilira kuti mmwejo mkwete msigo soni akugamanyilira masengo.
+      mitela jine kupambikanya ni jaisamba jisawaga jachabe kwa mwanache.
+
+  - name: sms-year1-week25b-eng
+    title: SMS Year 1, Week 25b
+    language: English
+    offset_days: 171
+    sms_text: >
+      If your face and hands swell up and get big suddenly, it is important
+      to go to the clinic right away.
+  - name: sms-year1-week25b-chewa
+    title: SMS Year 1, Week 25b
+    language: Chichewa
+    offset_days: 171
+    sms_text: >
+      Ngati nkhope ndi manja yanu atupa mwadzidzidzi, ndibwino kuthamangira
+      ku chipatala mwansanga.
+  - name: sms-year1-week25b-yao
+    title: SMS Year 1, Week 25b
+    language: Chiyao
+    offset_days: 171
+    sms_text: >
+      Naga ngope jenu nimagasa genu gakutupa mwasisi kuli kwambone kwaula ku
+      chitpatala ndawi jijojo.
+
+  - name: sms-year1-week26a-eng
+    title: SMS Year 1, Week 26a
+    language: English
+    offset_days: 175
+    sms_text: >
+      Are you drinking enough water? When you don't drink enough, you can
+      become tired or get headaches. Try for up to 8 glasses of water or
+      fruit juice each day.
+  - name: sms-year1-week26a-chewa
+    title: SMS Year 1, Week 26a
+    language: Chichewa
+    offset_days: 175
+    sms_text: >
+      Mukumwa madzi okwanira? Ngati mukumwa madzi ochepa, muzitopa mwansanga
+      komanso mutu uzikupwetekani. Yesetsani kumwa madzi matambula
+      osachepera 8 patsiku
+  - name: sms-year1-week26a-yao
+    title: SMS Year 1, Week 26a
+    language: Chiyao
+    offset_days: 175
+    sms_text: >
+      Mkumwa mesi gejinji?Naga mkakumwa kwejinji mkisasakaliga kapena mtwe
+      kupweteka, M'mweje makapu mcheche kuwichila makapu msanu nigatatu
+      kapena mesi ga isogosi
+
+  - name: sms-year1-week26b-eng
+    title: SMS Year 1, Week 26b
+    language: English
+    offset_days: 178
+    sms_text: >
+      If you have discharge that is thick, white and creamy, you may have
+      thrush. It happens to many pregnant women. Don't try to treat it
+      yourself; go to the clinic.
+  - name: sms-year1-week26b-chewa
+    title: SMS Year 1, Week 26b
+    language: Chichewa
+    offset_days: 178
+    sms_text: >
+      Ngati mukutulutsa chikazi cholimba, choyera komanso chonanda, mukhoza
+      kuti muli ndi zoyabwa.Izi zimachitika kawirikawiri kwa amai omwe ali
+      ndi pakati, musayetse kudzichiza nokha koma mupite ku chipatala kuti
+      mukathandizidwe.
+  - name: sms-year1-week26b-yao
+    title: SMS Year 1, Week 26b
+    language: Chiyao
+    offset_days: 178
+    sms_text: >
+      Naga mkukoposya ya kulimba, yeswela ni yanengenenge, mkikakopokaga
+      ilonda. Ayi isatendekwaga kwachikamawo wali ni msigo. Mkasilongosya
+      kulipa mtela mwasyene, mjaula ku chipatala.
+
+  - name: sms-year1-week27a-eng
+    title: SMS Year 1, Week 27a
+    language: English
+    offset_days: 182
+    sms_text: >
+      Have you been taking your iron tablets? Iron is important for you and
+      your baby. If you are feeling tired or breathless, your blood iron may
+      be low.
+  - name: sms-year1-week27a-chewa
+    title: SMS Year 1, Week 27a
+    language: Chichewa
+    offset_days: 182
+    sms_text: >
+      Mukumwa mapitsi anu owonjezera magazi? Michere imene imapezeka mu
+      mankwalawa ndi yofunika kwa inu mdi mwana wanu. Ngati mukumamva kutopa
+      kapena kubanika zikutanthauza kuti michere imeneyi ndiyochepa mmagazi
+      anu.
+  - name: sms-year1-week27a-yao
+    title: SMS Year 1, Week 27a
+    language: Chiyao
+    offset_days: 182
+    sms_text: >
+      Ana mkisamwaga mapilisi ga ailoni? Mapilisigatu gakusosekatu kwa
+      m'mwejo nimwanachejo. Kanga mkisawaga chisakalichile kapena kalepela
+      kupumula ni kuti mkwete ailoni jwamnono.
+
+  - name: sms-year1-week27b-eng
+    title: SMS Year 1, Week 27b
+    language: English
+    offset_days: 185
+    sms_text: >
+      Burning or pain while urinating could mean an infection. Other signs-
+      fever, chills, blood in urine or pain during sex. For any of these, go
+      to the clinic.
+  - name: sms-year1-week27b-chewa
+    title: SMS Year 1, Week 27b
+    language: Chichewa
+    offset_days: 185
+    sms_text: >
+      Kumva kuwotcha kapena kupweteka pamene mukukodza zikhoza kutanthauza
+      kuti muli ndi matenda. Zizindikiro zina ndi kutentha kwa thupi,
+      kuzizidwa kwambiri, mkodzo osakanizakirana ndi magazi, kumva kupweteka
+      nthawi yomwe mukugonana. Pitani ku chipatala mukaona vuto liri lonse
+      mwa mavuto tachuliwa.
+  - name: sms-year1-week27b-yao
+    title: SMS Year 1, Week 27b
+    language: Chiyao
+    offset_days: 185
+    sms_text: >
+      Kuocha soni kupweteka pa ndawi jakutunda, kusisima, myasi mmakweso,
+      kupweteka pandawi jimkugonana ikulosya ilwele. Pa yeleyi jaulani ku
+      chipitala.
+
+  - name: sms-year1-week28a-eng
+    title: SMS Year 1, Week 28a
+    language: English
+    offset_days: 189
+    sms_text: >
+      You and your family should make a plan for the baby's arrival. Think
+      about transport and household items you will need. Think about who to
+      call in an emergency
+  - name: sms-year1-week28a-chewa
+    title: SMS Year 1, Week 28a
+    language: Chichewa
+    offset_days: 189
+    sms_text: >
+      Inu ndi banja lanu muyenera kukonzekera kulandira mwana. Ganizirani
+      za mayendedwe ndi zinthu zam'nyumba zomwe zidzafunike, ganiziraninso
+      za munthu oyenenera kumudziwitsa nthawi yomwe zina zitachitika
+      mwadzidzidzi.
+  - name: sms-year1-week28a-yao
+    title: SMS Year 1, Week 28a
+    language: Chiyao
+    offset_days: 189
+    sms_text: >
+      M'mwejo nili wasa lyenu mpangane mutimumpochelele likandi lyenu.
+      Mpangane litala lya talasipoti ni yampochele imkuganisya timchawilanga
+      wani pandawi jakwe.
+
+  - name: sms-year1-week28b-eng
+    title: SMS Year 1, Week 28b
+    language: English
+    offset_days: 192
+    sms_text: >
+      If you have a sharp pain in your stomach, especially on 1 side go to
+      the clinic right away. Also, go if you are very thirsty, but not
+      urinating.
+  - name: sms-year1-week28b-chewa
+    title: SMS Year 1, Week 28b
+    language: Chichewa
+    offset_days: 192
+    sms_text: >
+      Ngati mumva kupweteka kwambiri m'mimba, makamaka m'mbali, thamangirani
+      ku chipatala komanso ngati mukumva ludzu kwambiri pomwe
+      simukukodzakodza.
+  - name: sms-year1-week28b-yao
+    title: SMS Year 1, Week 28b
+    language: Chiyao
+    offset_days: 192
+    sms_text: >
+      Mkupikana kupweteka mchiukala mbali jimompempe? Jaulani ku chipitala
+      mwakwangamika ata pa ndwawi jimkakutunda nambo mkumwa mesi, mjuaule ku
+      chipitala.
+
+  - name: sms-year1-week29a-eng
+    title: SMS Year 1, Week 29a
+    language: English
+    offset_days: 196
+    sms_text: >
+      The baby is very big now and may be causing your back to hurt. Try to
+      keep active, but avoid lifting heavy things like water, firewood and
+      other children.
+  - name: sms-year1-week29a-chewa
+    title: SMS Year 1, Week 29a
+    language: Chichewa
+    offset_days: 196
+    sms_text: >
+      Mwana wanu ndi wamkulu tsopano ndipo zikhoza kutheka kuti muzimva
+      kuwawa kwa msana. Yesetsani kumatakataka koma osamanyamula zinthu
+      zolemetsa monga kusenza madzi, nkhuni komanso ana ena.
+  - name: sms-year1-week29a-yao
+    title: SMS Year 1, Week 29a
+    language: Chiyao
+    offset_days: 196
+    sms_text: >
+      Kalikandi sambano kakusile kakumpwetekesya mgongo. Mkamuleje ine ni
+      ine nambo nganyakulanga yausito kwejinji mpera mesi, nguni niwanache
+
+  - name: sms-year1-week29b-eng
+    title: SMS Year 1, Week 29b
+    language: English
+    offset_days: 199
+    sms_text: >
+      Some things during pregnancy are serious. Go to the clinic immediately
+      if you have bleeding, bad headaches, fever, vomiting, dizziness or
+      blurry vision.
+  - name: sms-year1-week29b-chewa
+    title: SMS Year 1, Week 29b
+    language: Chichewa
+    offset_days: 199
+    sms_text: >
+      Zinthu zina ndizoopysa zikamachitika pamene muli oyembekezera,
+      thamangirani kuchipatala ngati mukutaya magazi, kupweteka kwa mutu,
+      kutentha thupi, kusanza, kuchita chizungulire kapena kupanga
+      chizumbazumba.
+  - name: sms-year1-week29b-yao
+    title: SMS Year 1, Week 29b
+    language: Chiyao
+    offset_days: 199
+    sms_text: >
+      Indu ine ndawi ya msigo isawaga yakusyausya. Mjaule kuchipitala
+      mwasanga naga mkwasa myasi, mtwe waching'alang'ala, kusisima, kutapika,
+      chisungulire kapena ungalola chenene.
+
+  - name: sms-year1-week30a-eng
+    title: SMS Year 1, Week 30a
+    language: English
+    offset_days: 203
+    sms_text: >
+      Your body still needs a lot of iron and folic acid. The tablets you got
+      from ANC can top up your intake, but eating well is still important.
+      Try to get lots of leafy greens.
+  - name: sms-year1-week30a-chewa
+    title: SMS Year 1, Week 30a
+    language: Chichewa
+    offset_days: 203
+    sms_text: >
+      Thupi lanu likufunabe michere yochulukitsa magazi yambiri. Mankhwala
+      amagazi omwe munalandira ku chipatala akhoza kuwonjezera michereyi,
+      koma kudyanso zabwino ndikofunikira. Muyesetse kumadya zakudya za
+      masamba zambiri.
+  - name: sms-year1-week30a-yao
+    title: SMS Year 1, Week 30a
+    language: Chiyao
+    offset_days: 203
+    sms_text: >
+      Chilu chenu chikusosa aironi ni folic acid jwanjinji. Mapilisi
+      gimsajigalaga kutyochela kusikelo, mpakana gamjonjechesye aironi.
+      nambo kulya chenene nikwakusoseka. Mchuluye kulya masamba gejinji.
+
+  - name: sms-year1-week30b-eng
+    title: SMS Year 1, Week 30b
+    language: English
+    offset_days: 206
+    sms_text: >
+      Breast milk is the perfect food for babies .Your first milk will be
+      thick and yellow and it is the best milk for protecting the baby from
+      diseases.
+  - name: sms-year1-week30b-chewa
+    title: SMS Year 1, Week 30b
+    language: Chichewa
+    offset_days: 206
+    sms_text: >
+      Mkaka wa mmawere ndi chakudya chabwino cha mwana. Mkaka woyamba
+      ndiwabwino pachitetezo cha mwana wanu kumatenda, mkakawu ndi wolimba
+      komanso wachikasu.
+  - name: sms-year1-week30b-yao
+    title: SMS Year 1, Week 30b
+    language: Chiyao
+    offset_days: 206
+    sms_text: >
+      Kumjonjesya ni chakulya chambone chamakandi, mkaka wandanda usawaga
+      wakandapala. Mkaka wandanda ni wambone usamchengenya mwanache jwenu
+      kulwele.
+
+  - name: sms-year1-week31a-eng
+    title: SMS Year 1, Week 31a
+    language: English
+    offset_days: 210
+    sms_text: >
+      Your labour is getting close. Some signs of labour are contractions-
+      when your stomach muscles tighten, pain low in your back, and loss of
+      the mucus plug
+  - name: sms-year1-week31a-chewa
+    title: SMS Year 1, Week 31a
+    language: Chichewa
+    offset_days: 210
+    sms_text: >
+      Mwana wanu akutsika tsopano. Zizindikiro zake ndi kupweteka kwa
+      mchiwuno, minyewa yam'mimba  imakuungika, mumamva kupweteka mmunsi
+      mwa nsana wanu komanso mumataya madzi
+  - name: sms-year1-week31a-yao
+    title: SMS Year 1, Week 31a
+    language: Chiyao
+    offset_days: 210
+    sms_text: >
+      Mli sambano pa mbesi kuweleka.Imanyisyo yakuweleka ikuwa kongotala
+      kwa mitasi ja chiukala,kupweteka panandi kwa m'gongo ni kwasa kwa
+      yakulenda yamchiwelechelo
+
+  - name: sms-year1-week31b-eng
+    title: SMS Year 1, Week 31b
+    language: English
+    offset_days: 213
+    sms_text: >
+      Many women suffer leg cramps at this time in pregnancy. It is a sharp
+      pain in the lower leg. Take breaks from sitting or standing long and
+      drink lots of water.
+  - name: sms-year1-week31b-chewa
+    title: SMS Year 1, Week 31b
+    language: Chichewa
+    offset_days: 213
+    sms_text: >
+      Amayi ambiri amamva kupweteka kobaya mmunsi mwa miyendo.  Mukamva izi,
+      musakhale kapena kuimilira nthawi yayitali ndipo muzimwa madzi ambiri.
+  - name: sms-year1-week31b-yao
+    title: SMS Year 1, Week 31b
+    language: Chiyao
+    offset_days: 213
+    sms_text: >
+      Achikamawo wejinji akisalagaga jele ndawiji pakongotala kwa mitasi
+      pandawi ja msigo. Ngajimaga kapena kwima kwa ndawi jelewu nambo mmweje
+      m'mesi gejenji.
+
+  - name: sms-year1-week32a-eng
+    title: SMS Year 1, Week 32a
+    language: English
+    offset_days: 217
+    sms_text: >
+      Your baby is inside your womb in a bag of fluid. When baby is ready,
+      the bag breaks & the fluid comes out. If this happens, go to the
+      hospital to deliver
+  - name: sms-year1-week32a-chewa
+    title: SMS Year 1, Week 32a
+    language: Chichewa
+    offset_days: 217
+    sms_text: >
+      Mwana wanu ali mu supa yomwe imakhala ndi madzi ndipo pamene mwana
+      akubadwa, supa ija imasweka, madzi amataluka. Izi zikachitika muli ku
+      nyumba, musachedwe, thamangilani ku chipatala.
+  - name: sms-year1-week32a-yao
+    title: SMS Year 1, Week 32a
+    language: Chiyao
+    offset_days: 217
+    sms_text: >
+      Kalikandi kenu kasawaga m'chiwelechelo, mwelemo mwana mesi gakutetesya.
+      Pandawiji kalikandi kenu kalipa mbesi kupagwa chiwelechelo
+      chisapapukaga ni mesi  gasakopokaga. Naga mkulola yeleyi jaulani
+      kuchipatala.
+
+  - name: sms-year1-week32b-eng
+    title: SMS Year 1, Week 32b
+    language: English
+    offset_days: 220
+    sms_text: >
+      Contractions happen when you can feel the muscles in your stomach
+      getting hard and then soft again. When the baby is coming, they will
+      be strong and regular
+  - name: sms-year1-week32b-chewa
+    title: SMS Year 1, Week 32b
+    language: Chichewa
+    offset_days: 220
+    sms_text: >
+      Matenda amadziwika, mitsempha ya pamimba panu imakungana kenako
+      kusiya. Mwana akamayandikira kubadwa, izi zimachika pafupipafupi
+      komanso kwambiri.
+  - name: sms-year1-week32b-yao
+    title: SMS Year 1, Week 32b
+    language: Chiyao
+    offset_days: 220
+    sms_text: >
+      kongotala kwa mitasi kusatendekwaga pandawi jaukungunda mitasi
+      mchiukala.Yeleyi isakwelaga ni kutulukaga.Pandawi likandi lilimkopoka
+      isawaga yakwela kwejinji.
+
+  - name: sms-year1-week33a-eng
+    title: SMS Year 1, Week 33a
+    language: English
+    offset_days: 224
+    sms_text: >
+      Your first breastmilk is called colostrum. It is thick & yellowish &
+      full  protein & infection protection for your baby.  It's the best
+      milk for baby.
+  - name: sms-year1-week33a-chewa
+    title: SMS Year 1, Week 33a
+    language: Chichewa
+    offset_days: 224
+    sms_text: >
+      Mkaka woyambirira kutuluka umatchedwa colostrums mchinzungu, umaoneka
+      wolimba komanso wachikasu, uli ndi zakudya zokulitsakomanso chitetezo
+      kumatenda kwa mwana, ndiwofunika kwambiri
+  - name: sms-year1-week33a-yao
+    title: SMS Year 1, Week 33a
+    language: Chiyao
+    offset_days: 224
+    sms_text: >
+      Mkaka wandanda usakolangaga kolositilamu. Wakandapala, walindandanda,
+      wana yakusoseka yosope yakutetesya ku ilwele kikandi lyenu. Nimkaka
+      wambone ku mwanache
+
+  - name: sms-year1-week33b-eng
+    title: SMS Year 1, Week 33b
+    language: English
+    offset_days: 227
+    sms_text: >
+      When you deliver at the hospital, the baby will get everything he
+      needs to start life healthy. Make sure you have a plan to get to the
+      hospital when it is time
+  - name: sms-year1-week33b-chewa
+    title: SMS Year 1, Week 33b
+    language: Chichewa
+    offset_days: 227
+    sms_text: >
+      Mwana akabadwira kuchipatala, amapatsidwa zofunikira kuyamba moyo wake.
+      Konzekerani mayendedwe okafikira kuchipatala nthawi inailiyonse
+      pakafunika kutero.
+  - name: sms-year1-week33b-yao
+    title: SMS Year 1, Week 33b
+    language: Chiyao
+    offset_days: 227
+    sms_text: >
+      Naga m'mwelechele ku chipitala kalikandi kasapochelaga yosopeyene
+      yakusoseka kuti umi wakwe uwe wambone. Mkasimaniche kuchipatala pa
+      ndawi jakwe
+
+  - name: sms-year1-week34a-eng
+    title: SMS Year 1, Week 34a
+    language: English
+    offset_days: 231
+    sms_text: >
+      Waiting at home once labour has started can cause death to mom or
+      baby, diseases, leg problems or tearing of the womb. Delivery in a
+      health facility is best.
+  - name: sms-year1-week34a-chewa
+    title: SMS Year 1, Week 34a
+    language: Chichewa
+    offset_days: 231
+    sms_text: >
+      Kudikilira pakhomo pamene matenda ayamba kukhoza kupangitsa imfa ya
+      mai ndi mwana, matenda, mavuto amiyendo kapenanso kung'ambika kwa
+      chibelekero. Kubelekera kuchipatala ndikwabwino kwambiri.
+  - name: sms-year1-week34a-yao
+    title: SMS Year 1, Week 34a
+    language: Chiyao
+    offset_days: 231
+    sms_text: >
+      Kwembachela kunyumba pa ndawi jakuweleke jili jitandite isatandisyaga
+      chiwa kwa mama kapena kwa likandilyo, ilwele, vuto ja ngongolo kapena
+      kapapuka kwa chiwelechelo. Kuwelechela pa malo gachaiptala kuli
+      kwambone
+
+  - name: sms-year1-week34b-eng
+    title: SMS Year 1, Week 34b
+    language: English
+    offset_days: 234
+    sms_text: >
+      Delivering in a health facility means that workers there can deal with
+      any problems or emergencies.  Make a plan to deliver in a facility
+  - name: sms-year1-week34b-chewa
+    title: SMS Year 1, Week 34b
+    language: Chichewa
+    offset_days: 234
+    sms_text: >
+      Kuchilira ku chipatala kumathandiza kuti adokotala athe kukuthandizani
+      mavuto omwe mungakhale nawo pobeleka. Kabelekereni ku chipatala.
+  - name: sms-year1-week34b-yao
+    title: SMS Year 1, Week 34b
+    language: Chiyao
+    offset_days: 234
+    sms_text: >
+      Kuwelechela ku chipatala kusapelekaga upile kuti wakamula masengogo
+      amasye yakusyausya iliyose. Tendani litala lyakuwelechela ku malo
+      gambone.
+
+  - name: sms-year1-week35a-eng
+    title: SMS Year 1, Week 35a
+    language: English
+    offset_days: 238
+    sms_text: >
+      Put a plastic sheet under your normal bed sheet to protect your
+      mattress if your waters break.
+  - name: sms-year1-week35a-chewa
+    title: SMS Year 1, Week 35a
+    language: Chichewa
+    offset_days: 238
+    sms_text: >
+      Yalani pepala ya pulasitiki pamwamba pa zofunda zanu ngati supa yanu
+      yasweka kuti musaononge matilesi anu.
+  - name: sms-year1-week35a-yao
+    title: SMS Year 1, Week 35a
+    language: Chiyao
+    offset_days: 238
+    sms_text: >
+      Mwinche chipepala chapulasitiki penani pa yakugonela yenu pakugopesya
+      kunyowesya yagonela pandawi jakopoka.
+
+  - name: sms-year1-week35b-eng
+    title: SMS Year 1, Week 35b
+    language: English
+    offset_days: 241
+    sms_text: >
+      There are many reasons that you might need an operation to deliver your
+      baby. All the reasons are to protect you and your baby from problems.
+      Try not to worry
+  - name: sms-year1-week35b-chewa
+    title: SMS Year 1, Week 35b
+    language: Chichewa
+    offset_days: 241
+    sms_text: >
+      Pali zifukwa zambiri zimene mungafunire kuti mwana wanu abadwe podzera
+      njira ya opereshoni, zifukwa zonsezi ndizofuna kuteteza inu ndi mwana
+      wanu kumavuto
+  - name: sms-year1-week35b-yao
+    title: SMS Year 1, Week 35b
+    language: Chiyao
+    offset_days: 241
+    sms_text: >
+      Pana magongo gejinji gakusoseka kutenda opaleshoni kuti mundu apagwisye
+      likandi.Magongo gosopegenega gasateteyaga umi wa mama ni likandi ku
+      yakusyausya.
+
+  - name: sms-year1-week36a-eng
+    title: SMS Year 1, Week 36a
+    language: English
+    offset_days: 245
+    sms_text: >
+      Your baby is almost ready to come now. Do you have a plan to deliver
+      at a health facility yet? Health workers can help deal with any
+      emergencies that come up
+  - name: sms-year1-week36a-chewa
+    title: SMS Year 1, Week 36a
+    language: Chichewa
+    offset_days: 245
+    sms_text: >
+      Muyembekeze kubeleka mwana nthawi ina iliyonse tsopano. Mwakonzekera
+      kukabelekera ku chipatala. A chipatala akhoza kukuthandizani ngati
+      mutapezeka ndi vuto mwadzidzi.
+  - name: sms-year1-week36a-yao
+    title: SMS Year 1, Week 36a
+    language: Chiyao
+    offset_days: 245
+    sms_text: >
+      Likandi lyenu sambano lilipafupi. Mkwete ganisyo sakuwelewelechela ku
+      chipatala? Jwachipatalape mpakana amkamusye pa chine chilichose
+      chakwisa mwasisi
+
+  - name: sms-year1-week36b-eng
+    title: SMS Year 1, Week 36b
+    language: English
+    offset_days: 248
+    sms_text: >
+      As your baby drops down in preparation for birth, you may start to
+      walk like a duck. Your little one is coming soon.
+  - name: sms-year1-week36b-chewa
+    title: SMS Year 1, Week 36b
+    language: Chichewa
+    offset_days: 248
+    sms_text: >
+      Pamene mwana wanu watsika mmusi kwambiri kukonzekera kutuluka, mukhoza
+      kuyamba kuamyenda ngati bakha, mwana wanu akubadwa tsopano.
+  - name: sms-year1-week36b-yao
+    title: SMS Year 1, Week 36b
+    language: Chiyao
+    offset_days: 248
+    sms_text: >
+      Pa ndawi likandi lyenu lili liwandichile  kuti lipagwe, mkisatandaga
+      kwenda mpela mbata
+
+  - name: sms-year1-week37a-eng
+    title: SMS Year 1, Week 37a
+    language: English
+    offset_days: 252
+    sms_text: >
+      If you baby is born at home you should visit the clinic immediately.
+      The baby will get important shots and you will learn about
+      breastfeeding.
+  - name: sms-year1-week37a-chewa
+    title: SMS Year 1, Week 37a
+    language: Chichewa
+    offset_days: 252
+    sms_text: >
+      Ngati mwabelekera pakhomo, pitani kuchipatala mwansanga. Mwana wanu
+      azalndira katemera komanso mukaphunzitsidwa zakuyamwitsa.
+  - name: sms-year1-week37a-yao
+    title: SMS Year 1, Week 37a
+    language: Chiyao
+    offset_days: 252
+    sms_text: >
+      Naga likandi lipagwile kunyumba mjaule mwachangu ku chipatala.
+      Mwanache takapochele mtela wakusoseka nambo soni majiganyo gakonjesya
+
+  - name: sms-year1-week37b-eng
+    title: SMS Year 1, Week 37b
+    language: English
+    offset_days: 255
+    sms_text: >
+      Baby can come anytime now. Do you have all you need for delivery packed
+      in a bag? Pack napkins, cloths, baby soap, towels, basin and clothes
+      for you.
+  - name: sms-year1-week37b-chewa
+    title: SMS Year 1, Week 37b
+    language: Chichewa
+    offset_days: 255
+    sms_text: >
+      Mwana akhoza kubadwa nthawi ina iliyosne tsopano. Kodi mwalongedza kale
+      zonse zofunika mchikwama, monga matewela, zovala, sopo wa mwana,
+      zopukutira, beseni komanso zovala zanu.
+  - name: sms-year1-week37b-yao
+    title: SMS Year 1, Week 37b
+    language: Chiyao
+    offset_days: 255
+    sms_text: >
+      Ana yosope yakusoseka mlinganisye mumsaku?jigalani matewela,yakuwala,
+      sopo,chitaulo,libeseni ni yakuwala yenu.
+
+  - name: sms-year1-week38a-eng
+    title: SMS Year 1, Week 38a
+    language: English
+    offset_days: 259
+    sms_text: >
+      A new baby can get sick easily. Go to the clinic within 1 day of birth
+      for immunizations. Always wash your hands with soap before and after
+      changing the nappy
+  - name: sms-year1-week38a-chewa
+    title: SMS Year 1, Week 38a
+    language: Chichewa
+    offset_days: 259
+    sms_text: >
+      Mwana wakhanda sachedwa kudwala, pitani kuchipatala lisanathe tsiku
+      akangobadwa kuti akalandire katemera. Muzisamba m'manja ndi sopo
+      nthawi zonse musachotse kapena mukachotsa mwana thewela
+  - name: sms-year1-week38a-yao
+    title: SMS Year 1, Week 38a
+    language: Chiyao
+    offset_days: 259
+    sms_text: >
+      Likandi mpakana lilwale ndawi jilijose Mjaule kuchipatala palisiku
+      lyapagwile kuti akapochele mtela Ndawi syosopesyene anawe myala pa
+      chenjile matewela.
+
+  - name: sms-year1-week38b-eng
+    title: SMS Year 1, Week 38b
+    language: English
+    offset_days: 262
+    sms_text: >
+      Baby needs nothing but breastmilk for first 6months. Feeding often
+      helps you increase milk production
+  - name: sms-year1-week38b-chewa
+    title: SMS Year 1, Week 38b
+    language: Chichewa
+    offset_days: 262
+    sms_text: >
+      Mkaka ndi chakudya chokwanira cha mwana pa miyezi isanu ndi umodzi
+      yoyambilira. Kuyamwitsa kawiri kawiri kumathandiza kuti inu
+      muzitulutsa mkaka wambiri.
+  - name: sms-year1-week38b-yao
+    title: SMS Year 1, Week 38b
+    language: Chiyao
+    offset_days: 262
+    sms_text: >
+      Likandi pangali chine chimpakana asose changawa mkaka wa mmawele kwa
+      miyesi msanu ni umo. Kulya chenene kusakamuchisayaga kuti mkaka uwe
+      wejinji
+
+  - name: sms-year1-week39a-eng
+    title: SMS Year 1, Week 39a
+    language: English
+    offset_days: 266
+    sms_text: >
+      Mother can have low blood after delivery. U will be given one red
+      capsule of vitamin A immediately after delivery and at your first
+      clinic visit to help
+  - name: sms-year1-week39a-chewa
+    title: SMS Year 1, Week 39a
+    language: Chichewa
+    offset_days: 266
+    sms_text: >
+      Mzimai akhozakukhala ndi magazi ochepa akangobeleka kumene.
+      Muzapatsidwa kapisozi wofiira mmodzi wa vitamin A mukazangobeleka
+      kapena tsiku loyamba lomwe mwapita kuchipatala mutangobeleka.
+  - name: sms-year1-week39a-yao
+    title: SMS Year 1, Week 39a
+    language: Chiyao
+    offset_days: 266
+    sms_text: >
+      Mama mpakana awe ni myasi jakunandipa ali aweleche kwene. Timchipegwatu
+      lipilisi limompepe lyechejewu lya vitamin A mwansanga mligambile
+      kwelekea nikwaula kwa ndanda kwa kuchipatala
+
+  - name: sms-year1-week39b-eng
+    title: SMS Year 1, Week 39b
+    language: English
+    offset_days: 269
+    sms_text: >
+      Breastmilk has water so no need to give baby water. Breastmilk has all
+      the baby needs to eat and drink.
+  - name: sms-year1-week39b-chewa
+    title: SMS Year 1, Week 39b
+    language: Chichewa
+    offset_days: 269
+    sms_text: >
+      Mkaka wa mmawele umakhala ndi madzi moti mwana safunika kupatsidwa
+      madzi ena. Mkaka wa mmawele amakhala ndi zakudya zonse zoyenerela
+      komanso madzi.
+  - name: sms-year1-week39b-yao
+    title: SMS Year 1, Week 39b
+    language: Chiyao
+    offset_days: 269
+    sms_text: >
+      Mumkaka mwana mesi nipangali ligongo lyakummwechesya mwanache mesi.
+      Mkaka wa mmawele mwana yosope yakusoseka kuti mwanache alye ni kumwa.
+
+  - name: sms-year1-week40a-eng
+    title: SMS Year 1, Week 40a
+    language: English
+    offset_days: 273
+    sms_text: >
+      Don't worry if baby hasn't arrived yet, but go to ANC to be sure all
+      is fine. If you have delivered, congratulations! remember to visit
+      clinic after delivery
+  - name: sms-year1-week40a-chewa
+    title: SMS Year 1, Week 40a
+    language: Chichewa
+    offset_days: 273
+    sms_text: >
+      Musadandaule ngati simunabelekebe koma mupite ku chipatala kuti
+      mukadziwitsidwe ngati pali vuto lirilonse. Ngati mwabeleka, ai zabwino
+      zonse. Kumbukirani kupita kuchipatala mukangobeleka
+  - name: sms-year1-week40a-yao
+    title: SMS Year 1, Week 40a
+    language: Chiyao
+    offset_days: 273
+    sms_text: >
+      Ngadandaula naga likandi nganilipagwe, nambo mjaule kusikelo kuti
+      yosope ikawe chenene.Naga m'weleche masosagambone!Jaulani sambano
+      kuchipatala pim'welechepo
+
+  - name: sms-year1-week40b-eng
+    title: SMS Year 1, Week 40b
+    language: English
+    offset_days: 276
+    sms_text: >
+      If your baby weighs less than 2.5 kgs at birth it is will be important
+      to keep them warm by keeping them close to you near your breasts.
+  - name: sms-year1-week40b-chewa
+    title: SMS Year 1, Week 40b
+    language: Chichewa
+    offset_days: 276
+    sms_text: >
+      Ngati mwana wanu wabadwa ndi sikelo yosakwana 2.5kgs, ndibwino kuti
+      thupi lake likhale lotentha pogunditsa thupi lake ndi lanu pachifuwa
+      panu.
+  - name: sms-year1-week40b-yao
+    title: SMS Year 1, Week 40b
+    language: Chiyao
+    offset_days: 276
+    sms_text: >
+      Naga likandi lyenu likakusotopa 2.5 kg, pandawi ja kupagwa kuli
+      kwambone kuti likandilyo mliunichili nikulikumbatila pa mawele penu
+
+  - name: sms-year1-week41a-eng
+    title: SMS Year 1, Week 41a
+    language: English
+    offset_days: 280
+    sms_text: >
+      Be sure to take your baby to the health center 6 weeks after delivery.
+      Your baby will get checked and receive more immunizations.
+  - name: sms-year1-week41a-chewa
+    title: SMS Year 1, Week 41a
+    language: Chichewa
+    offset_days: 280
+    sms_text: >
+      Muzakumbukire kupita naye mwana wanu ku sikelo pakatha ma sabata six.
+      Mwanayo azakapatsidwa katemera wina komanso azakayezedwa.
+  - name: sms-year1-week41a-yao
+    title: SMS Year 1, Week 41a
+    language: Chiyao
+    offset_days: 280
+    sms_text: >
+      Mlolechesye kuti mwanache jwenu mumjaulisye ku sikelo pali papite
+      milungu msanu ni umo pa chipagwile Mwanache jwenu, tachimperenga chene
+      nikunpa katemela
+
+  - name: sms-year1-week41b-eng
+    title: SMS Year 1, Week 41b
+    language: English
+    offset_days: 283
+    sms_text: >
+      Breastfeeding also protects your baby from illness. Babies who are
+      breastfed have fewer illnesses and than those who are fed other drinks
+      and foods.
+  - name: sms-year1-week41b-chewa
+    title: SMS Year 1, Week 41b
+    language: Chichewa
+    offset_days: 283
+    sms_text: >
+      Kuyamwitsa mwana wanu mkaka wa mmawele kumateteza mwana ku matenda.
+      Ana omwe akuyamwa mkaka wa mmawele samadwaladwala tikawayelekeza ndi
+      ana omwe amapatsidwa zakudya ndi zakumwa zosiyanasiyana
+  - name: sms-year1-week41b-yao
+    title: SMS Year 1, Week 41b
+    language: Chiyao
+    offset_days: 283
+    sms_text: >
+      Kumonjesya mwanache mkaka wa mmawele kusamtetesyaga ku ilwele. Mwanache
+      jwakumjonjesya chenene jwangalwalalwala kulekangana najojo jwasamwaga
+      yakamwa ineyi.
+
+  - name: sms-year1-week42a-eng
+    title: SMS Year 1, Week 42a
+    language: English
+    offset_days: 287
+    sms_text: >
+      If you have not yet delivered, you should go to the health center. Some
+      babies take longer to come, but you should get checked.
+  - name: sms-year1-week42a-chewa
+    title: SMS Year 1, Week 42a
+    language: Chichewa
+    offset_days: 287
+    sms_text: >
+      Ngati sumabelekebe pitani ku chipatala, ana ena amatenga nthawi kuti
+      abadwe koma mukuyenera kukaonedwa ndi achipatala.
+  - name: sms-year1-week42a-yao
+    title: SMS Year 1, Week 42a
+    language: Chiyao
+    offset_days: 287
+    sms_text: >
+      Naga nganiweleche pakusoseka kwaulaga ku sekelo. Wananche wane
+      pakisiajigalaga ndawi kuti apagwe, nimyoyo mjauleje kusikelo.
+
+  - name: sms-year1-week42b-eng
+    title: SMS Year 1, Week 42b
+    language: English
+    offset_days: 290
+    sms_text: >
+      When breastfeeding you should hold your baby so she is turned toward
+      you belly to belly. You should be relaxed and the baby should be
+      close to you
+  - name: sms-year1-week42b-chewa
+    title: SMS Year 1, Week 42b
+    language: Chichewa
+    offset_days: 290
+    sms_text: >
+      Pomuyamwitsa mwana wanu mimba yanu ndi yamwana igundane, ndipo mukhale
+      mosadzipinda ndipo mwana akhale pafupi ndi inu.
+  - name: sms-year1-week42b-yao
+    title: SMS Year 1, Week 42b
+    language: Chiyao
+    offset_days: 290
+    sms_text: >
+      Pakumjonjesya mwanache jwenu mumkamuleje kuti agalaucheje kumbali
+      jakongajo.Ngalikusika kusyesyene kuti mwanachejo awe chifupi ni mmwejo
+
+  - name: sms-year1-week43a-eng
+    title: SMS Year 1, Week 43a
+    language: English
+    offset_days: 294
+    sms_text: >
+      This is the last message for your pregnancy. Call chipatala cha pa
+      foni to register for messages during your baby's first year.
+  - name: sms-year1-week43a-chewa
+    title: SMS Year 1, Week 43a
+    language: Chichewa
+    offset_days: 294
+    sms_text: >
+      Uwu ndi uthenga womaliza wokhuza pakati panu. Lembetsani ku chipatala
+      cha pa foni kuti muzilandira mauthenga  wokhudza mwana wanu a mchaka
+      choyamba
+  - name: sms-year1-week43a-yao
+    title: SMS Year 1, Week 43a
+    language: Chiyao
+    offset_days: 294
+    sms_text: >
+      Awu ni utenga wakumalisya pa msigo wenu. Msembesye pa chipatala cha pa
+      foni kuti mpocheleje mautnga ga mwanache jwenu m'chaka chadanda.
+
+
+  - name: ivr-week5-eng
+    title: IVR Week 5
+    language: English
+    offset_days: 28
+    ivr_code: pg5.wav/English
+  - name: ivr-week5-chewa
+    title: IVR Week 5
+    language: Chichewa
+    offset_days: 28
+    ivr_code: pg5.wav/Default Language
+  - name: ivr-week5-yao
+    title: IVR Week 5
+    language: Chiyao
+    offset_days: 28
+    ivr_code: pg5.wav/Yao
+
+  - name: ivr-week6-eng
+    title: IVR Week 6
+    language: English
+    offset_days: 35
+    ivr_code: pg6.wav/English
+  - name: ivr-week6-chewa
+    title: IVR Week 6
+    language: Chichewa
+    offset_days: 35
+    ivr_code: pg6.wav/Default Language
+  - name: ivr-week6-yao
+    title: IVR Week 6
+    language: Chiyao
+    offset_days: 35
+    ivr_code: pg6.wav/Yao
+
+  - name: ivr-week7-eng
+    title: IVR Week 7
+    language: English
+    offset_days: 42
+    ivr_code: pg7.wav/English
+  - name: ivr-week7-chewa
+    title: IVR Week 7
+    language: Chichewa
+    offset_days: 42
+    ivr_code: pg7.wav/Default Language
+  - name: ivr-week7-yao
+    title: IVR Week 7
+    language: Chiyao
+    offset_days: 42
+    ivr_code: pg7.wav/Yao
+
+  - name: ivr-week8-eng
+    title: IVR Week 8
+    language: English
+    offset_days: 49
+    ivr_code: pg8.wav/English
+  - name: ivr-week8-chewa
+    title: IVR Week 8
+    language: Chichewa
+    offset_days: 49
+    ivr_code: pg8.wav/Default Language
+  - name: ivr-week8-yao
+    title: IVR Week 8
+    language: Chiyao
+    offset_days: 49
+    ivr_code: pg8.wav/Yao
+
+  - name: ivr-week9-eng
+    title: IVR Week 9
+    language: English
+    offset_days: 56
+    ivr_code: pg9.wav/English
+  - name: ivr-week9-chewa
+    title: IVR Week 9
+    language: Chichewa
+    offset_days: 56
+    ivr_code: pg9.wav/Default Language
+  - name: ivr-week9-yao
+    title: IVR Week 9
+    language: Chiyao
+    offset_days: 56
+    ivr_code: pg9.wav/Yao
+
+  - name: ivr-week10-eng
+    title: IVR Week 10
+    language: English
+    offset_days: 63
+    ivr_code: pg10.wav/English
+  - name: ivr-week10-chewa
+    title: IVR Week 10
+    language: Chichewa
+    offset_days: 63
+    ivr_code: pg10.wav/Default Language
+  - name: ivr-week10-yao
+    title: IVR Week 10
+    language: Chiyao
+    offset_days: 63
+    ivr_code: pg10.wav/Yao
+
+  - name: ivr-week11-eng
+    title: IVR Week 11
+    language: English
+    offset_days: 70
+    ivr_code: pg11.wav/English
+  - name: ivr-week11-chewa
+    title: IVR Week 11
+    language: Chichewa
+    offset_days: 70
+    ivr_code: pg11.wav/Default Language
+  - name: ivr-week11-yao
+    title: IVR Week 11
+    language: Chiyao
+    offset_days: 70
+    ivr_code: pg11.wav/Yao
+
+  - name: ivr-week12-eng
+    title: IVR Week 12
+    language: English
+    offset_days: 77
+    ivr_code: pg12.wav/English
+  - name: ivr-week12-chewa
+    title: IVR Week 12
+    language: Chichewa
+    offset_days: 77
+    ivr_code: pg12.wav/Default Language
+  - name: ivr-week12-yao
+    title: IVR Week 12
+    language: Chiyao
+    offset_days: 77
+    ivr_code: pg12.wav/Yao
+
+  - name: ivr-week13-eng
+    title: IVR Week 13
+    language: English
+    offset_days: 84
+    ivr_code: pg13.wav/English
+  - name: ivr-week13-chewa
+    title: IVR Week 13
+    language: Chichewa
+    offset_days: 84
+    ivr_code: pg13.wav/Default Language
+  - name: ivr-week13-yao
+    title: IVR Week 13
+    language: Chiyao
+    offset_days: 84
+    ivr_code: pg13.wav/Yao
+
+  - name: ivr-week14-eng
+    title: IVR Week 14
+    language: English
+    offset_days: 91
+    ivr_code: pg14.wav/English
+  - name: ivr-week14-chewa
+    title: IVR Week 14
+    language: Chichewa
+    offset_days: 91
+    ivr_code: pg14.wav/Default Language
+  - name: ivr-week14-yao
+    title: IVR Week 14
+    language: Chiyao
+    offset_days: 91
+    ivr_code: pg14.wav/Yao
+
+  - name: ivr-week15-eng
+    title: IVR Week 15
+    language: English
+    offset_days: 98
+    ivr_code: pg15.wav/English
+  - name: ivr-week15-chewa
+    title: IVR Week 15
+    language: Chichewa
+    offset_days: 98
+    ivr_code: pg15.wav/Default Language
+  - name: ivr-week15-yao
+    title: IVR Week 15
+    language: Chiyao
+    offset_days: 98
+    ivr_code: pg15.wav/Yao
+
+  - name: ivr-week16-eng
+    title: IVR Week 16
+    language: English
+    offset_days: 105
+    ivr_code: pg16.wav/English
+  - name: ivr-week16-chewa
+    title: IVR Week 16
+    language: Chichewa
+    offset_days: 105
+    ivr_code: pg16.wav/Default Language
+  - name: ivr-week16-yao
+    title: IVR Week 16
+    language: Chiyao
+    offset_days: 105
+    ivr_code: pg16.wav/Yao
+
+  - name: ivr-week17-eng
+    title: IVR Week 17
+    language: English
+    offset_days: 112
+    ivr_code: pg17.wav/English
+  - name: ivr-week17-chewa
+    title: IVR Week 17
+    language: Chichewa
+    offset_days: 112
+    ivr_code: pg17.wav/Default Language
+  - name: ivr-week17-yao
+    title: IVR Week 17
+    language: Chiyao
+    offset_days: 112
+    ivr_code: pg17.wav/Yao
+
+  - name: ivr-week18-eng
+    title: IVR Week 18
+    language: English
+    offset_days: 119
+    ivr_code: pg18.wav/English
+  - name: ivr-week18-chewa
+    title: IVR Week 18
+    language: Chichewa
+    offset_days: 119
+    ivr_code: pg18.wav/Default Language
+  - name: ivr-week18-yao
+    title: IVR Week 18
+    language: Chiyao
+    offset_days: 119
+    ivr_code: pg18.wav/Yao
+
+  - name: ivr-week19-eng
+    title: IVR Week 19
+    language: English
+    offset_days: 126
+    ivr_code: pg19.wav/English
+  - name: ivr-week19-chewa
+    title: IVR Week 19
+    language: Chichewa
+    offset_days: 126
+    ivr_code: pg19.wav/Default Language
+  - name: ivr-week19-yao
+    title: IVR Week 19
+    language: Chiyao
+    offset_days: 126
+    ivr_code: pg19.wav/Yao
+
+  - name: ivr-week20-eng
+    title: IVR Week 20
+    language: English
+    offset_days: 133
+    ivr_code: pg20.wav/English
+  - name: ivr-week20-chewa
+    title: IVR Week 20
+    language: Chichewa
+    offset_days: 133
+    ivr_code: pg20.wav/Default Language
+  - name: ivr-week20-yao
+    title: IVR Week 20
+    language: Chiyao
+    offset_days: 133
+    ivr_code: pg20.wav/Yao
+
+  - name: ivr-week21-eng
+    title: IVR Week 21
+    language: English
+    offset_days: 140
+    ivr_code: pg21.wav/English
+  - name: ivr-week21-chewa
+    title: IVR Week 21
+    language: Chichewa
+    offset_days: 140
+    ivr_code: pg21.wav/Default Language
+  - name: ivr-week21-yao
+    title: IVR Week 21
+    language: Chiyao
+    offset_days: 140
+    ivr_code: pg21.wav/Yao
+
+  - name: ivr-week22-eng
+    title: IVR Week 22
+    language: English
+    offset_days: 147
+    ivr_code: pg22.wav/English
+  - name: ivr-week22-chewa
+    title: IVR Week 22
+    language: Chichewa
+    offset_days: 147
+    ivr_code: pg22.wav/Default Language
+  - name: ivr-week22-yao
+    title: IVR Week 22
+    language: Chiyao
+    offset_days: 147
+    ivr_code: pg22.wav/Yao
+
+  - name: ivr-week23-eng
+    title: IVR Week 23
+    language: English
+    offset_days: 154
+    ivr_code: pg23.wav/English
+  - name: ivr-week23-chewa
+    title: IVR Week 23
+    language: Chichewa
+    offset_days: 154
+    ivr_code: pg23.wav/Default Language
+  - name: ivr-week23-yao
+    title: IVR Week 23
+    language: Chiyao
+    offset_days: 154
+    ivr_code: pg23.wav/Yao
+
+  - name: ivr-week24-eng
+    title: IVR Week 24
+    language: English
+    offset_days: 161
+    ivr_code: pg24.wav/English
+  - name: ivr-week24-chewa
+    title: IVR Week 24
+    language: Chichewa
+    offset_days: 161
+    ivr_code: pg24.wav/Default Language
+  - name: ivr-week24-yao
+    title: IVR Week 24
+    language: Chiyao
+    offset_days: 161
+    ivr_code: pg24.wav/Yao
+
+  - name: ivr-week25-eng
+    title: IVR Week 25
+    language: English
+    offset_days: 168
+    ivr_code: pg25.wav/English
+  - name: ivr-week25-chewa
+    title: IVR Week 25
+    language: Chichewa
+    offset_days: 168
+    ivr_code: pg25.wav/Default Language
+  - name: ivr-week25-yao
+    title: IVR Week 25
+    language: Chiyao
+    offset_days: 168
+    ivr_code: pg25.wav/Yao
+
+  - name: ivr-week26-eng
+    title: IVR Week 26
+    language: English
+    offset_days: 175
+    ivr_code: pg26.wav/English
+  - name: ivr-week26-chewa
+    title: IVR Week 26
+    language: Chichewa
+    offset_days: 175
+    ivr_code: pg26.wav/Default Language
+  - name: ivr-week26-yao
+    title: IVR Week 26
+    language: Chiyao
+    offset_days: 175
+    ivr_code: pg26.wav/Yao
+
+  - name: ivr-week27-eng
+    title: IVR Week 27
+    language: English
+    offset_days: 182
+    ivr_code: pg27.wav/English
+  - name: ivr-week27-chewa
+    title: IVR Week 27
+    language: Chichewa
+    offset_days: 182
+    ivr_code: pg27.wav/Default Language
+  - name: ivr-week27-yao
+    title: IVR Week 27
+    language: Chiyao
+    offset_days: 182
+    ivr_code: pg27.wav/Yao
+
+  - name: ivr-week28-eng
+    title: IVR Week 28
+    language: English
+    offset_days: 189
+    ivr_code: pg28.wav/English
+  - name: ivr-week28-chewa
+    title: IVR Week 28
+    language: Chichewa
+    offset_days: 189
+    ivr_code: pg28.wav/Default Language
+  - name: ivr-week28-yao
+    title: IVR Week 28
+    language: Chiyao
+    offset_days: 189
+    ivr_code: pg28.wav/Yao
+
+  - name: ivr-week29-eng
+    title: IVR Week 29
+    language: English
+    offset_days: 196
+    ivr_code: pg29.wav/English
+  - name: ivr-week29-chewa
+    title: IVR Week 29
+    language: Chichewa
+    offset_days: 196
+    ivr_code: pg29.wav/Default Language
+  - name: ivr-week29-yao
+    title: IVR Week 29
+    language: Chiyao
+    offset_days: 196
+    ivr_code: pg29.wav/Yao
+
+  - name: ivr-week30-eng
+    title: IVR Week 30
+    language: English
+    offset_days: 203
+    ivr_code: pg30.wav/English
+  - name: ivr-week30-chewa
+    title: IVR Week 30
+    language: Chichewa
+    offset_days: 203
+    ivr_code: pg30.wav/Default Language
+  - name: ivr-week30-yao
+    title: IVR Week 30
+    language: Chiyao
+    offset_days: 203
+    ivr_code: pg30.wav/Yao
+
+  - name: ivr-week31-eng
+    title: IVR Week 31
+    language: English
+    offset_days: 210
+    ivr_code: pg31.wav/English
+  - name: ivr-week31-chewa
+    title: IVR Week 31
+    language: Chichewa
+    offset_days: 210
+    ivr_code: pg31.wav/Default Language
+  - name: ivr-week31-yao
+    title: IVR Week 31
+    language: Chiyao
+    offset_days: 210
+    ivr_code: pg31.wav/Yao
+
+  - name: ivr-week32-eng
+    title: IVR Week 32
+    language: English
+    offset_days: 217
+    ivr_code: pg32.wav/English
+  - name: ivr-week32-chewa
+    title: IVR Week 32
+    language: Chichewa
+    offset_days: 217
+    ivr_code: pg32.wav/Default Language
+  - name: ivr-week32-yao
+    title: IVR Week 32
+    language: Chiyao
+    offset_days: 217
+    ivr_code: pg32.wav/Yao
+
+  - name: ivr-week33-eng
+    title: IVR Week 33
+    language: English
+    offset_days: 224
+    ivr_code: pg33.wav/English
+  - name: ivr-week33-chewa
+    title: IVR Week 33
+    language: Chichewa
+    offset_days: 224
+    ivr_code: pg33.wav/Default Language
+  - name: ivr-week33-yao
+    title: IVR Week 33
+    language: Chiyao
+    offset_days: 224
+    ivr_code: pg33.wav/Yao
+
+  - name: ivr-week34-eng
+    title: IVR Week 34
+    language: English
+    offset_days: 231
+    ivr_code: pg34.wav/English
+  - name: ivr-week34-chewa
+    title: IVR Week 34
+    language: Chichewa
+    offset_days: 231
+    ivr_code: pg34.wav/Default Language
+  - name: ivr-week34-yao
+    title: IVR Week 34
+    language: Chiyao
+    offset_days: 231
+    ivr_code: pg34.wav/Yao
+
+  - name: ivr-week35-eng
+    title: IVR Week 35
+    language: English
+    offset_days: 238
+    ivr_code: pg35.wav/English
+  - name: ivr-week35-chewa
+    title: IVR Week 35
+    language: Chichewa
+    offset_days: 238
+    ivr_code: pg35.wav/Default Language
+  - name: ivr-week35-yao
+    title: IVR Week 35
+    language: Chiyao
+    offset_days: 238
+    ivr_code: pg35.wav/Yao
+
+  - name: ivr-week36-eng
+    title: IVR Week 36
+    language: English
+    offset_days: 245
+    ivr_code: pg36.wav/English
+  - name: ivr-week36-chewa
+    title: IVR Week 36
+    language: Chichewa
+    offset_days: 245
+    ivr_code: pg36.wav/Default Language
+  - name: ivr-week36-yao
+    title: IVR Week 36
+    language: Chiyao
+    offset_days: 245
+    ivr_code: pg36.wav/Yao
+
+  - name: ivr-week37-eng
+    title: IVR Week 37
+    language: English
+    offset_days: 252
+    ivr_code: pg37.wav/English
+  - name: ivr-week37-chewa
+    title: IVR Week 37
+    language: Chichewa
+    offset_days: 252
+    ivr_code: pg37.wav/Default Language
+  - name: ivr-week37-yao
+    title: IVR Week 37
+    language: Chiyao
+    offset_days: 252
+    ivr_code: pg37.wav/Yao
+
+  - name: ivr-week38-eng
+    title: IVR Week 38
+    language: English
+    offset_days: 259
+    ivr_code: pg38.wav/English
+  - name: ivr-week38-chewa
+    title: IVR Week 38
+    language: Chichewa
+    offset_days: 259
+    ivr_code: pg38.wav/Default Language
+  - name: ivr-week38-yao
+    title: IVR Week 38
+    language: Chiyao
+    offset_days: 259
+    ivr_code: pg38.wav/Yao
+
+  - name: ivr-week39-eng
+    title: IVR Week 39
+    language: English
+    offset_days: 266
+    ivr_code: pg39.wav/English
+  - name: ivr-week39-chewa
+    title: IVR Week 39
+    language: Chichewa
+    offset_days: 266
+    ivr_code: pg39.wav/Default Language
+  - name: ivr-week39-yao
+    title: IVR Week 39
+    language: Chiyao
+    offset_days: 266
+    ivr_code: pg39.wav/Yao
+
+  - name: ivr-week40-eng
+    title: IVR Week 40
+    language: English
+    offset_days: 273
+    ivr_code: pg40.wav/English
+  - name: ivr-week40-chewa
+    title: IVR Week 40
+    language: Chichewa
+    offset_days: 273
+    ivr_code: pg40.wav/Default Language
+  - name: ivr-week40-yao
+    title: IVR Week 40
+    language: Chiyao
+    offset_days: 273
+    ivr_code: pg40.wav/Yao
+
+  - name: ivr-week41-eng
+    title: IVR Week 41
+    language: English
+    offset_days: 280
+    ivr_code: pg41.wav/English
+  - name: ivr-week41-chewa
+    title: IVR Week 41
+    language: Chichewa
+    offset_days: 280
+    ivr_code: pg41.wav/Default Language
+  - name: ivr-week41-yao
+    title: IVR Week 41
+    language: Chiyao
+    offset_days: 280
+    ivr_code: pg41.wav/Yao
+
+  - name: ivr-week42-eng
+    title: IVR Week 42
+    language: English
+    offset_days: 287
+    ivr_code: pg42.wav/English
+  - name: ivr-week42-chewa
+    title: IVR Week 42
+    language: Chichewa
+    offset_days: 287
+    ivr_code: pg42.wav/Default Language
+  - name: ivr-week42-yao
+    title: IVR Week 42
+    language: Chiyao
+    offset_days: 287
+    ivr_code: pg42.wav/Yao

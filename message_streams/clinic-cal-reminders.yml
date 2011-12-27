@@ -1,0 +1,41 @@
+---
+name: clinic-cal-reminders
+title: Clinic-Cal Reminders
+messages:
+  - name: reminder-7-day-eng
+    title: 7 Day Reminder
+    language: English
+    offset_days: 0
+    expire_days: 2
+    sms_text: Please remember, %name% has an ANC appointment on %date%
+  - name: reminder-3-day-eng
+    title: 3 Day Reminder
+    language: English
+    offset_days: 4
+    expire_days: 2
+    sms_text: Please remember, %name% has an ANC appointment on %date%
+  - name: reminder-1-day-eng
+    title: 1 Day Reminder
+    language: English
+    offset_days: 6
+    expire_days: 1
+    sms_text: Please remember, %name% has an ANC appointment on %date%
+
+  - name: reminder-7-day-chewa
+    title: 7 Day Reminder
+    language: Chichewa
+    offset_days: 0
+    expire_days: 2
+    sms_text: Chonde kumbukirani, %name% mukuyenera kupita ku sikelo %date%
+  - name: reminder-3-day-chewa
+    title: 3 Day Reminder
+    language: Chichewa
+    offset_days: 4
+    expire_days: 2
+    sms_text: Chonde kumbukirani, %name% mukuyenera kupita ku sikelo %date%
+  - name: reminder-1-day-chewa
+    title: 1 Day Reminder
+    language: Chichewa
+    offset_days: 6
+    expire_days: 1
+    sms_text: Chonde kumbukirani, %name% mukuyenera kupita ku sikelo %date%
