@@ -1,0 +1,712 @@
+---
+name: wcba
+title: "WCBA Stream"
+messages:
+  - name: sms-week1-eng
+    title: SMS Week 1
+    language: English
+    offset_days: 0
+    sms_text: >
+      Take steps now to make sure that you have a healthy pregnancy and
+      baby. Eat foods high in iron and folate like greens and beans; use
+      salt with iodine.
+  - name: sms-week1-chewa
+    title: SMS Week 1
+    language: Chichewa
+    offset_days: 0
+    sms_text: >
+      Tsatilani ndondomeko kuti muzabeleke mwana wathanzi. Muzidya
+      zoonjezera magazi monga zamasamba ndi nyemba. Gwiritsani mchere
+      wokhala ndi iodine.
+
+  - name: sms-week2-eng
+    title: SMS Week 2
+    language: English
+    offset_days: 7
+    sms_text: >
+      There are many choices for family planning. Discuss your options
+      with the health center nurse to make a choice that works best for
+      you.
+  - name: sms-week2-chewa
+    title: SMS Week 2
+    language: Chichewa
+    offset_days: 7
+    sms_text: >
+      Njira zakulera zilipo zosiyanasiyana. Kambiranani ndi a nurse njira
+      zomwe mwakonda kuti musankhe njira yomwe ingakuyenereni.
+
+  - name: sms-week3-eng
+    title: SMS Week 3
+    language: English
+    offset_days: 14
+    sms_text: >
+      If you have a discharge that smells bad, is thick, yellow, green, or
+      if it itches or burns, you might have an infection. Go to the clinic.
+  - name: sms-week3-chewa
+    title: SMS Week 3
+    language: Chichewa
+    offset_days: 14
+    sms_text: >
+      Ngati mukutulutsa chikazi chonunkha, cholimba, chachikasu,
+      chobiliwira, choyabwa kapena kuotcha, mwina muli ndi matenda
+      opatsirana. Pitani kuchipatala.
+
+  - name: sms-week4-eng
+    title: SMS Week 4
+    language: English
+    offset_days: 21
+    sms_text: >
+      Could you be pregnant? Signs include: bloated stomach, missed period,
+      swollen breasts, fatigue and stomach upset. If you are pregnant start
+      ANC right away.
+  - name: sms-week4-chewa
+    title: SMS Week 4
+    language: Chichewa
+    offset_days: 21
+    sms_text: >
+      Kodi muli ndi mimba? Zizindikiro zake ndi izi: kufufuma mimba,
+      kudumphitsa kusamba, kutupa mawere, kutopa ndi nselu. Ngati muli ndi
+      mimba yambani sikelo.
+
+  - name: sms-week5-eng
+    title: SMS Week 5
+    language: English
+    offset_days: 28
+    sms_text: >
+      Chipatala cha pa foni is here to answer your questions about
+      pregnancy and caring for children. Call when you become pregnant and
+      after your child is born.
+  - name: sms-week5-chewa
+    title: SMS Week 5
+    language: Chichewa
+    offset_days: 28
+    sms_text: >
+      Chipatala cha pa foni chilipo kuti chiyankhe mafunso anu okhudzana
+      ndi pakati ndi chisamaliro cha ana. Imbani pamene muli ndi mimba
+      ndinso  mwana wanu wabadwa.
+
+  - name: sms-week6-eng
+    title: SMS Week 6
+    language: English
+    offset_days: 35
+    sms_text: >
+      Healthy moms have healthy babies. Take care with good hygiene around
+      your home. Wash hands with soap before eating and after the toilet.
+  - name: sms-week6-chewa
+    title: SMS Week 6
+    language: Chichewa
+    offset_days: 35
+    sms_text: >
+      Amayi athanzi amakhala ndi ana athanzi. Samalani mwaukhondo pakhomo
+      panu. Sambani m'manja ndi sopo musanayambe kudya komanso pochoka
+      kuchimbudzi.
+
+  - name: sms-week7-eng
+    title: SMS Week 7
+    language: English
+    offset_days: 42
+    sms_text: >
+      Condoms protect you from sexually transmitted infections and HIV.
+      Even if you are using other family planning methods, use both for
+      full protection.
+  - name: sms-week7-chewa
+    title: SMS Week 7
+    language: Chichewa
+    offset_days: 42
+    sms_text: >
+      Kondomu imakutetezani kumatenda opatsirana pogonana komanso HIV.
+      Ngakhale mutagwiritsa njira zina zakulera, gwiritsaninso kondomu
+      kuti mudziteteze mokwanira.
+
+  - name: sms-week8-eng
+    title: SMS Week 8
+    language: English
+    offset_days: 49
+    sms_text: >
+      Getting tested for HIV will help you and your partner will be
+      prepared to stay healthy. Know your status.
+  - name: sms-week8-chewa
+    title: SMS Week 8
+    language: Chichewa
+    offset_days: 49
+    sms_text: >
+      Kuyezetsa magazi kuti mudziwe ngati muli ndi HIV kudzakuthandizani
+      inu ndi okondedwa anu kukhala athanzi. Dziwani ngati muli ndi HIV
+      kapena ayi.
+
+  - name: sms-week9-eng
+    title: SMS Week 9
+    language: English
+    offset_days: 56
+    sms_text: >
+      If you find that you are pregnant, you and your partner should go to
+      ANC soonest to learn how to have a healthy pregnancy and birth.
+  - name: sms-week9-chewa
+    title: SMS Week 9
+    language: Chichewa
+    offset_days: 56
+    sms_text: >
+      Ngati mwadziwa kuti muli ndi pakati pitani kusikelo ndi okondedwa anu
+      mwansanga kuti mukaphunzire kukhala ndi pakati pathanzi ndi kuchira
+      mwathanzi.
+
+  - name: sms-week10-eng
+    title: SMS Week 10
+    language: English
+    offset_days: 63
+    sms_text: >
+      Foods high in iron are important for women your age. Eat lots of
+      green vegetables and foods like beans. Choose healthy snacks like
+      fruit.
+  - name: sms-week10-chewa
+    title: SMS Week 10
+    language: Chichewa
+    offset_days: 63
+    sms_text: >
+      Zakudya zoonjezera magazi ndizofunika kwa amayi amsinkhu wanu. Idyani
+      zamasamba zochuluka ndi zakudya ngati nyemba. Idyaninso tizakudya
+      tina ngati zipatso.
+
+  - name: sms-week11-eng
+    title: SMS Week 11
+    language: English
+    offset_days: 70
+    sms_text: >
+      Your body needs a rest between births. Use family planning to have at
+      least two years between pregnancies.
+  - name: sms-week11-chewa
+    title: SMS Week 11
+    language: Chichewa
+    offset_days: 70
+    sms_text: >
+      Thupi lanu limayenera kupuma musanabelekenso. Gwiritsani ntchito
+      njira zakulera kuti mupume mosachepera zaka ziwiri musanabelekenso.
+
+  - name: sms-week12-eng
+    title: SMS Week 12
+    language: English
+    offset_days: 77
+    sms_text: >
+      If you think you have a sexually transmitted infection, both you are
+      your partner should get tested and treated right away. Untreated
+      infections can leave you sterile.
+  - name: sms-week12-chewa
+    title: SMS Week 12
+    language: Chichewa
+    offset_days: 77
+    sms_text: >
+      Ngati mukuganiza kuti muli ndimatenda opatsirana pogonana, inu ndi
+      okondedwa anu mukayezetse ndikulandira chithandizo. Kusatelo mutha
+      kukhala osabeleka.
+
+  - name: sms-week13-eng
+    title: SMS Week 13
+    language: English
+    offset_days: 84
+    sms_text: >
+      When you are ready to get pregnant, talk to the nurse about stopping
+      your family planning and preparing for pregnancy.
+  - name: sms-week13-chewa
+    title: SMS Week 13
+    language: Chichewa
+    offset_days: 84
+    sms_text: >
+      Ngati mwakonzeka kukhala ndi pakati, auzeni a nesi zosiya kaye njira
+      yakulera ndikukonzekera pakati panu.
+
+  - name: sms-week14-eng
+    title: SMS Week 14
+    language: English
+    offset_days: 91
+    sms_text: >
+      If you are healthy before getting pregnant, your baby will be
+      healthier. Follow your doctor's advice to control diabetes,
+      hypertension
+  - name: sms-week14-chewa
+    title: SMS Week 14
+    language: Chichewa
+    offset_days: 91
+    sms_text: >
+      Ngati muli athanzi musanatenge pakati, mwana wanu adzakhala wathanzi.
+      Tsatirani malangizo a dokotala kuti mupewe matenda a shuga ndi
+      akuthamanga kwa magazi.
+
+  - name: sms-week15-eng
+    title: SMS Week 15
+    language: English
+    offset_days: 98
+    sms_text: >
+      Family planning methods that use hormones do not protect against
+      sexually transmitted infections and HIV. Use a condom + family
+      planning.
+  - name: sms-week15-chewa
+    title: SMS Week 15
+    language: Chichewa
+    offset_days: 98
+    sms_text: >
+      Njira zina zakulera sizingakutetezeni kumatenda opatsirana pogonana
+      komanso HIV. Gwiritsani ntchito kondomu ndi njira ina yakulera.
+
+  - name: sms-week16-eng
+    title: SMS Week 16
+    language: English
+    offset_days: 105
+    sms_text: >
+      When you become pregnant and after giving birth, Chipatala cha pa
+      foni can help you. Call if you have questions.
+  - name: sms-week16-chewa
+    title: SMS Week 16
+    language: Chichewa
+    offset_days: 105
+    sms_text: >
+      Panthawi yomwe muli ndi pakati ndinso nthawi yomwe mwachira,
+      chipatala cha pa foni chingakuthandizeni. Imbani foni ngati muli ndi
+      mafunso.
+
+  - name: sms-week17-eng
+    title: SMS Week 17
+    language: English
+    offset_days: 112
+    sms_text: >
+      Missed period? Upset stomach? Swollen breasts? If you think you are
+      pregnant, start ANC as soon as possible for a healthy pregnancy.
+  - name: sms-week17-chewa
+    title: SMS Week 17
+    language: Chichewa
+    offset_days: 112
+    sms_text: >
+      Kodi mwadumphitsa kusamba? Mukumva nseru? Mwatupa mawele? Ngati
+      mukuganiza kuti muli ndi pakati yambani sikelo mwansanga kuti mukhale
+      ndi pakati pathanzi.
+
+  - name: sms-week18-eng
+    title: SMS Week 18
+    language: English
+    offset_days: 119
+    sms_text: >
+      It's best to wait 2 years between births. Talk with your partner
+      about using family planning to make sure each baby is healthy.
+  - name: sms-week18-chewa
+    title: SMS Week 18
+    language: Chichewa
+    offset_days: 119
+    sms_text: >
+      Ndibwino kudikira zaka ziwiri musanabelekenso. Kambiranani ndi
+      okondedwa anu zogwiritsa ntchito njira zakulera kuti ana onse akhale
+      athanzi.
+
+  - name: sms-week19-eng
+    title: SMS Week 19
+    language: English
+    offset_days: 126
+    sms_text: >
+      There are many choices for family planning. Discuss your options with
+      the health center nurse to make a choice that works best for you.
+  - name: sms-week19-chewa
+    title: SMS Week 19
+    language: Chichewa
+    offset_days: 126
+    sms_text: >
+      Njira zakulera zilipo zosiyanasiyana. Kambiranani ndi a nurse njira
+      zomwe mwakonda kuti musankhe njira yomwe ingakuyenereni.
+
+  - name: sms-week20-eng
+    title: SMS Week 20
+    language: English
+    offset_days: 133
+    sms_text: >
+      Take steps now to make sure that you have a healthy pregnancy and
+      baby. Eat foods high in iron and folate like greens and beans; use
+      salt with iodine
+  - name: sms-week20-chewa
+    title: SMS Week 20
+    language: Chichewa
+    offset_days: 133
+    sms_text: >
+      Mutsatire ndondomeko kuti inu ndi mwana wanu mudzakhale athanzi.
+      Mudzidya zoonjezera magazi monga zamasamba ndi nyemba. Gwiritsani
+      mchere wokhala ndi iodine.
+
+  - name: sms-week21-eng
+    title: SMS Week 21
+    language: English
+    offset_days: 140
+    sms_text: >
+      Condoms protect you from sexually transmitted infections and HIV.
+      Even if you are using other family planning methods, use both for
+      full protection.
+  - name: sms-week21-chewa
+    title: SMS Week 21
+    language: Chichewa
+    offset_days: 140
+    sms_text: >
+      Kondomu imakutetezani kumatenda opatsirana pogonana komanso HIV.
+      Ngakhale mutagwiritsa njira zina zakulera, gwiritsaninso kondomu
+      kuti mudziteteze mokwanira.
+
+  - name: sms-week22-eng
+    title: SMS Week 22
+    language: English
+    offset_days: 147
+    sms_text: >
+      Being healthy before you get pregnant is important. Take care with
+      hygiene and sanitation around your home. Wash hands with soap.
+  - name: sms-week22-chewa
+    title: SMS Week 22
+    language: Chichewa
+    offset_days: 147
+    sms_text: >
+      Kukhala wathanzi musanakhale ndipakati ndikofunika. Samalani
+      mwaukhondo pakhomo panu. Sambani m'manja ndi sopo.
+
+  - name: sms-week23-eng
+    title: SMS Week 23
+    language: English
+    offset_days: 154
+    sms_text: >
+      Be sure to get tested and treated for sexually transmitted diseases.
+      If they are not treated, you may not be able to have children.
+  - name: sms-week23-chewa
+    title: SMS Week 23
+    language: Chichewa
+    offset_days: 154
+    sms_text: >
+      Onetsetsani kuti mwayezetsa ndikulandira chithandizo chamatenda
+      opatsirana pogonana. Ngati simunalandire chithandizo, mukhonza
+      kukhala munthu osabeleka.
+
+  - name: sms-week24-eng
+    title: SMS Week 24
+    language: English
+    offset_days: 161
+    sms_text: >
+      Missed period? Upset stomach? Swollen breasts? If you think you are
+      pregnant, start ANC as soon as possible for a healthy pregnancy.
+  - name: sms-week24-chewa
+    title: SMS Week 24
+    language: Chichewa
+    offset_days: 161
+    sms_text: >
+      Kodi mwadumphitsa kusamba? Mukumva nseru? Mwatupa mawele? Ngati
+      mukuganiza kuti muli ndi pakati yambani sikelo mwansanga kuti mukhale
+      ndi pakati pathanzi.
+
+  - name: sms-week25-eng
+    title: SMS Week 25
+    language: English
+    offset_days: 168
+    sms_text: >
+      Foods high in iron are important for women your age. Eat lots of
+      green vegetables and foods like beans. Choose healthy snacks like
+      fruit.
+  - name: sms-week25-chewa
+    title: SMS Week 25
+    language: Chichewa
+    offset_days: 168
+    sms_text: >
+      Zakudya zoonjezera magazi ndizofunika kwa amayi ansinkhu wanu. Idyani
+      zamasamba zochuluka ndi zakudya ngati nyemba. Idyaninso tizakudya
+      tina ngati zipatso.
+
+  - name: sms-week26-eng
+    title: SMS Week 26
+    language: English
+    offset_days: 175
+    sms_text: >
+      When you become pregnant and after giving birth, Chipatala cha pa
+      foni can help you. Call if you have questions.
+  - name: sms-week26-chewa
+    title: SMS Week 26
+    language: Chichewa
+    offset_days: 175
+    sms_text: >
+      Panthawi yomwe muli ndi pakati ndinso nthawi yomwe mwachira,
+      chipatala cha pa foni chingakuthandizeni. Imbani foni ngati muli
+      ndi mafunso.
+
+  - name: ivr-week1-chewa
+    title: IVR Week 1
+    language: Chichewa
+    offset_days: 0
+    ivr_code: wcba_01.wav/Default Language
+  - name: ivr-week1-yao
+    title: IVR Week 1
+    language: Chiyao
+    offset_days: 0
+    ivr_code: wcba_01.wav/Yao
+
+  - name: ivr-week2-chewa
+    title: IVR Week 2
+    language: Chichewa
+    offset_days: 7
+    ivr_code: wcba_02.wav/Default Language
+  - name: ivr-week2-yao
+    title: IVR Week 2
+    language: Chiyao
+    offset_days: 7
+    ivr_code: wcba_02.wav/Yao
+
+  - name: ivr-week3-chewa
+    title: IVR Week 3
+    language: Chichewa
+    offset_days: 14
+    ivr_code: wcba_03.wav/Default Language
+  - name: ivr-week3-yao
+    title: IVR Week 3
+    language: Chiyao
+    offset_days: 14
+    ivr_code: wcba_03.wav/Yao
+
+  - name: ivr-week4-chewa
+    title: IVR Week 4
+    language: Chichewa
+    offset_days: 21
+    ivr_code: wcba_04.wav/Default Language
+  - name: ivr-week4-yao
+    title: IVR Week 4
+    language: Chiyao
+    offset_days: 21
+    ivr_code: wcba_04.wav/Yao
+
+  - name: ivr-week5-chewa
+    title: IVR Week 5
+    language: Chichewa
+    offset_days: 28
+    ivr_code: wcba_05.wav/Default Language
+  - name: ivr-week5-yao
+    title: IVR Week 5
+    language: Chiyao
+    offset_days: 28
+    ivr_code: wcba_05.wav/Yao
+
+  - name: ivr-week6-chewa
+    title: IVR Week 6
+    language: Chichewa
+    offset_days: 35
+    ivr_code: wcba_06.wav/Default Language
+  - name: ivr-week6-yao
+    title: IVR Week 6
+    language: Chiyao
+    offset_days: 35
+    ivr_code: wcba_06.wav/Yao
+
+  - name: ivr-week7-chewa
+    title: IVR Week 7
+    language: Chichewa
+    offset_days: 42
+    ivr_code: wcba_07.wav/Default Language
+  - name: ivr-week7-yao
+    title: IVR Week 7
+    language: Chiyao
+    offset_days: 42
+    ivr_code: wcba_07.wav/Yao
+
+  - name: ivr-week8-chewa
+    title: IVR Week 8
+    language: Chichewa
+    offset_days: 49
+    ivr_code: wcba_08.wav/Default Language
+  - name: ivr-week8-yao
+    title: IVR Week 8
+    language: Chiyao
+    offset_days: 49
+    ivr_code: wcba_08.wav/Yao
+
+  - name: ivr-week9-chewa
+    title: IVR Week 9
+    language: Chichewa
+    offset_days: 56
+    ivr_code: wcba_09.wav/Default Language
+  - name: ivr-week9-yao
+    title: IVR Week 9
+    language: Chiyao
+    offset_days: 56
+    ivr_code: wcba_09.wav/Yao
+
+  - name: ivr-week10-chewa
+    title: IVR Week 10
+    language: Chichewa
+    offset_days: 63
+    ivr_code: wcba_10.wav/Default Language
+  - name: ivr-week10-yao
+    title: IVR Week 10
+    language: Chiyao
+    offset_days: 63
+    ivr_code: wcba_10.wav/Yao
+
+  - name: ivr-week11-chewa
+    title: IVR Week 11
+    language: Chichewa
+    offset_days: 70
+    ivr_code: wcba_11.wav/Default Language
+  - name: ivr-week11-yao
+    title: IVR Week 11
+    language: Chiyao
+    offset_days: 70
+    ivr_code: wcba_11.wav/Yao
+
+  - name: ivr-week12-chewa
+    title: IVR Week 12
+    language: Chichewa
+    offset_days: 77
+    ivr_code: wcba_12.wav/Default Language
+  - name: ivr-week12-yao
+    title: IVR Week 12
+    language: Chiyao
+    offset_days: 77
+    ivr_code: wcba_12.wav/Yao
+
+  - name: ivr-week13-chewa
+    title: IVR Week 13
+    language: Chichewa
+    offset_days: 84
+    ivr_code: wcba_13.wav/Default Language
+  - name: ivr-week13-yao
+    title: IVR Week 13
+    language: Chiyao
+    offset_days: 84
+    ivr_code: wcba_13.wav/Yao
+
+  - name: ivr-week14-chewa
+    title: IVR Week 14
+    language: Chichewa
+    offset_days: 91
+    ivr_code: wcba_14.wav/Default Language
+  - name: ivr-week14-yao
+    title: IVR Week 14
+    language: Chiyao
+    offset_days: 91
+    ivr_code: wcba_14.wav/Yao
+
+  - name: ivr-week15-chewa
+    title: IVR Week 15
+    language: Chichewa
+    offset_days: 98
+    ivr_code: wcba_15.wav/Default Language
+  - name: ivr-week15-yao
+    title: IVR Week 15
+    language: Chiyao
+    offset_days: 98
+    ivr_code: wcba_15.wav/Yao
+
+  - name: ivr-week16-chewa
+    title: IVR Week 16
+    language: Chichewa
+    offset_days: 105
+    ivr_code: wcba_16.wav/Default Language
+  - name: ivr-week16-yao
+    title: IVR Week 16
+    language: Chiyao
+    offset_days: 105
+    ivr_code: wcba_16.wav/Yao
+
+  - name: ivr-week17-chewa
+    title: IVR Week 17
+    language: Chichewa
+    offset_days: 112
+    ivr_code: wcba_17.wav/Default Language
+  - name: ivr-week17-yao
+    title: IVR Week 17
+    language: Chiyao
+    offset_days: 112
+    ivr_code: wcba_17.wav/Yao
+
+  - name: ivr-week18-chewa
+    title: IVR Week 18
+    language: Chichewa
+    offset_days: 119
+    ivr_code: wcba_18.wav/Default Language
+  - name: ivr-week18-yao
+    title: IVR Week 18
+    language: Chiyao
+    offset_days: 119
+    ivr_code: wcba_18.wav/Yao
+
+  - name: ivr-week19-chewa
+    title: IVR Week 19
+    language: Chichewa
+    offset_days: 126
+    ivr_code: wcba_19.wav/Default Language
+  - name: ivr-week19-yao
+    title: IVR Week 19
+    language: Chiyao
+    offset_days: 126
+    ivr_code: wcba_19.wav/Yao
+
+  - name: ivr-week20-chewa
+    title: IVR Week 20
+    language: Chichewa
+    offset_days: 133
+    ivr_code: wcba_20.wav/Default Language
+  - name: ivr-week20-yao
+    title: IVR Week 20
+    language: Chiyao
+    offset_days: 133
+    ivr_code: wcba_20.wav/Yao
+
+  - name: ivr-week21-chewa
+    title: IVR Week 21
+    language: Chichewa
+    offset_days: 140
+    ivr_code: wcba_21.wav/Default Language
+  - name: ivr-week21-yao
+    title: IVR Week 21
+    language: Chiyao
+    offset_days: 140
+    ivr_code: wcba_21.wav/Yao
+
+  - name: ivr-week22-chewa
+    title: IVR Week 22
+    language: Chichewa
+    offset_days: 147
+    ivr_code: wcba_22.wav/Default Language
+  - name: ivr-week22-yao
+    title: IVR Week 22
+    language: Chiyao
+    offset_days: 147
+    ivr_code: wcba_22.wav/Yao
+
+  - name: ivr-week23-chewa
+    title: IVR Week 23
+    language: Chichewa
+    offset_days: 154
+    ivr_code: wcba_23.wav/Default Language
+  - name: ivr-week23-yao
+    title: IVR Week 23
+    language: Chiyao
+    offset_days: 154
+    ivr_code: wcba_23.wav/Yao
+
+  - name: ivr-week24-chewa
+    title: IVR Week 24
+    language: Chichewa
+    offset_days: 161
+    ivr_code: wcba_24.wav/Default Language
+  - name: ivr-week24-yao
+    title: IVR Week 24
+    language: Chiyao
+    offset_days: 161
+    ivr_code: wcba_24.wav/Yao
+
+  - name: ivr-week25-chewa
+    title: IVR Week 25
+    language: Chichewa
+    offset_days: 168
+    ivr_code: wcba_25.wav/Default Language
+  - name: ivr-week25-yao
+    title: IVR Week 25
+    language: Chiyao
+    offset_days: 168
+    ivr_code: wcba_25.wav/Yao
+
+  - name: ivr-week26-chewa
+    title: IVR Week 26
+    language: Chichewa
+    offset_days: 175
+    ivr_code: wcba_26.wav/Default Language
+  - name: ivr-week26-yao
+    title: IVR Week 26
+    language: Chiyao
+    offset_days: 175
+    ivr_code: wcba_26.wav/Yao
+
