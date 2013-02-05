@@ -619,25 +619,25 @@ messages:
     language: English
     offset_days: 115
     sms_text: >
-      Now is a good time to start to plan for your baby's arrival at the
-      health center. Put down small money weekly for things needed at
-      delivery like baby napkins.
+      Now is a good time to call 54747 to make a plan for your baby's
+      arrival and your delivery.Put down small money weekly for things
+      needed at delivery like baby napkins.
   - name: sms-year1-week17b-chewa
     title: SMS Year 1, Week 17b
     language: Chichewa
     offset_days: 115
     sms_text: >
-      Ino ndi nthawi yoyenera kuyamba kukozekera kubadwa kwa mwana wanu.
-      Yambani kusunga ndalama yoti mugulire zinthu zomwe zimafunika mwana
-      akabadwa monga matewela
+      Ino ndi nthawi yabwino kuyimba ku 54747 kuti mukonze ndondomeko
+      za kubadwa kwa mwana wanu. Sungani ndalama zoti mudzagulire
+      zinthu zofunikira nthawi yochira.
   - name: sms-year1-week17b-yao
     title: SMS Year 1, Week 17b
     language: Chiyao
     offset_days: 115
     sms_text: >
-      Sambano ajino ni ndawi jambone kutenda matala gakombolecheka kuti
-      likandilyo silipagwe ku chipatala. Msunje mbiya mlungu uliwonse pa
-      yayindu yakumpochelela mwanache mpera matewela.
+      Ajino nindawi jakwimba pa 54747 pakulinganya ndondomeko
+      jakupagwa kwa mwanache. Asunje mbiya syakwakamuchisya
+      kusuma yindu yakusosegwa mpela matewera.
 
   - name: sms-year1-week18a-eng
     title: SMS Year 1, Week 18a
@@ -809,23 +809,25 @@ messages:
     language: English
     offset_days: 143
     sms_text: >
-      Now is a good time to think about baby's arrival & your delivery. Have
-      you thought about transport to hospital or clinic in an emergency?
+      If you haven't already, call 54747 to make a plan for your baby's
+      arrival and your delivery. Have you thought about transport to
+      hospital or clinic in an emergency?
   - name: sms-year1-week21b-chewa
     title: SMS Year 1, Week 21b
     language: Chichewa
     offset_days: 143
     sms_text: >
-      Ino nthawi yoti muziganiza zakubadwa kwa mwana wanu. Kodi
-      munaganizirako za mayendedwe aku chipatala ngati patafunika kutero
-      mwadzidzidzi?
+      Ngati simunaganizirepo zakubadwa kwa mwana, imbani 54747 kuti
+      mukonze ndondomeko yakubadwa kwa mwana ndikuganizira
+      mayendedwe akuchipatala matenda akayamba.
   - name: sms-year1-week21b-yao
     title: SMS Year 1, Week 21b
     language: Chiyao
     offset_days: 143
     sms_text: >
-      Ndawi aji nijambone ganichisila yakupagwa kwanache jwenu. Ana
-      mkozechele majendedwe gakuchipitala ulewele uli utandite mwasisi?
+      Naga nganaganichisye yakupagwa kwa mwanache, ajimbe pa
+      54747 kuti alinganichisye ndondomeko yakupagwa kwa
+      mwanache nikajendedwe pakwala ku chipatala.
 
   - name: sms-year1-week22a-eng
     title: SMS Year 1, Week 22a
@@ -1136,26 +1138,25 @@ messages:
     language: English
     offset_days: 189
     sms_text: >
-      You and your family should make a plan for the baby's arrival. Think
-      about transport and household items you will need. Think about who to
-      call in an emergency
+      If you haven't already, call 54747 to make a plan for your baby's
+      arrival. Think about transport and household items you will need.
+      Think about who to call in an emergency
   - name: sms-year1-week28a-chewa
     title: SMS Year 1, Week 28a
     language: Chichewa
     offset_days: 189
     sms_text: >
-      Inu ndi banja lanu muyenera kukonzekera kulandira mwana. Ganizirani
-      za mayendedwe ndi zinthu zam'nyumba zomwe zidzafunike, ganiziraninso
-      za munthu oyenenera kumudziwitsa nthawi yomwe zina zitachitika
-      mwadzidzidzi.
+      Ngati simunaganize zakubadwa kwa mwana imbani pa 54747 ganizirani
+      mayendedwe ndi zomwe zizafunike, muganizenso yemwe adzafunike
+      matenda atayamba.
   - name: sms-year1-week28a-yao
     title: SMS Year 1, Week 28a
     language: Chiyao
     offset_days: 189
     sms_text: >
-      M'mwejo nili wasa lyenu mpangane mutimumpochelele likandi lyenu.
-      Mpangane litala lya talasipoti ni yampochele imkuganisya timchawilanga
-      wani pandawi jakwe.
+      Naga nganaganichisye kupagwa kupagwa kwa mwanache ajimbe
+      pa 54747 kuti aganichisye ipanje yakusosegwa nikuganichisya
+      mundu wakusosegwa pakupagwa kwa mwanache.
 
   - name: sms-year1-week28b-eng
     title: SMS Year 1, Week 28b
